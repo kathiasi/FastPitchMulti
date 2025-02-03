@@ -74,7 +74,8 @@ def parse_args(parser):
     
     parser.add_argument('--speaker', type=int, default=0,
                         help='Speaker ID for a multi-speaker model')
-
+    parser.add_argument('--language', type=int, default=0,
+                        help='Language ID for a multilingual model')
     parser.add_argument('--p-arpabet', type=float, default=0.0, help='') ################
 
   
