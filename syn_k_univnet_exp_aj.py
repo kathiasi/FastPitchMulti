@@ -232,7 +232,7 @@ class Synthesizer:
                     
                 write(output_file+".wav", 22050, audio)
             
-            os.system("play -q "+output_file+".wav &")
+            os.system("play -q "+output_file+".wav")
             return audio
     
 
@@ -260,9 +260,10 @@ if __name__ == '__main__':
         
         text = input(">")
         text1 = text.split(" ")
-        for s in range(10):
-            print("speaker", s)
-            syn.speak(text, output_file="inf_output_exp_sma/"+str(i)+"_"+text1[0]+"_FP_"+fastpitch_n_shortest+"univnet", spkr=s, lang=lang)
+        for s in range(1,10):
+            #for l in range(3):
+            print("speaker", s, "language", lang)
+            syn.speak(text, output_file="/tmp/"+str(i)+"_"+text1[0]+"_FP_"+fastpitch_n_shortest+"univnet", spkr=s, lang=lang)
             i += 1
 
         
