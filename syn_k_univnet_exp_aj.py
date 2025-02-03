@@ -56,7 +56,7 @@ def parse_args(parser):
     #parser.add_argument('--fastpitch', type=str, default='output_smj_sander/FastPitch_checkpoint_660.pt',
                         #help='Full path to the generator checkpoint file (skip to use ground truth mels)') #########
 
-    parser.add_argument('--fastpitch', type=str, default='output_aj/FastPitch_checkpoint_830.pt',
+    parser.add_argument('--fastpitch', type=str, default='output_multilang/FastPitch_checkpoint_10.pt',
                         help='Full path to the generator checkpoint file (skip to use ground truth mels)') #########    
 
     parser.add_argument('-d', '--denoising-strength', default=0.01, type=float,
@@ -83,7 +83,7 @@ def parse_args(parser):
     text_processing.add_argument('--text-cleaners', nargs='*',
                                  default=['basic_cleaners'], type=str,
                                  help='Type of text cleaners for input text')
-    text_processing.add_argument('--symbol-set', type=str, default='sma_expanded', #################
+    text_processing.add_argument('--symbol-set', type=str, default='all_sami', #################
                                  help='Define symbol set for input text')
 
     cond = parser.add_argument_group('conditioning on additional attributes')
