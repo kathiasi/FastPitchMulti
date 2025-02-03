@@ -350,18 +350,26 @@ class FastPitch(nn.Module):
 
     def infer(self, inputs, pace=1.0, dur_tgt=None, pitch_tgt=None,
               energy_tgt=None, pitch_transform=None, max_duration=75,
-              speaker=0):
+              speaker=0, language=0):
 
         if self.speaker_emb is None:
             spk_emb = 0
         else:
+            print("using speaker embeddings")
             speaker = (torch.ones(inputs.size(0)).long().to(inputs.device)
                        * speaker)
             spk_emb = self.speaker_emb(speaker).unsqueeze(1)
             spk_emb.mul_(self.speaker_emb_weight)
-
+          # ANT: added language 
+        if self.language_emb is None:
+            language_emb = 0
+        else:
+            print("using language embeddings")
+            language = (torch.ones(inputs.size(0)).long().to(inputs.device)
+                       * language)
+            language_emb = self.language_emb(language).unsqueeze(1)
         # Input FFT
-        enc_out, enc_mask = self.encoder(inputs, conditioning=spk_emb)
+        enc_out, enc_mask = self.encoder(inputs, conditioning=[spk_emb, language_emb])
 
         # Predict durations
         log_dur_pred = self.duration_predictor(enc_out, enc_mask).squeeze(-1)
