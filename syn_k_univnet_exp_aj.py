@@ -189,7 +189,7 @@ class Synthesizer:
         
         
     # def speak(self, text): #, style_embedding, surprisals, output_file="/tmp/tmp", speaker_i = 0):
-    def speak(self, text, output_file="/tmp/tmp"):
+    def speak(self, text, output_file="/tmp/tmp", spkr=0, lang=0):
 
         # text = self.tp.encode_text(text)
         text = [9]+self.tp.encode_text(text)+[9]
@@ -204,7 +204,7 @@ class Synthesizer:
         
             with torch.no_grad():
                
-                mel, mel_lens, *_ = self.generator(text, pace=0.95, max_duration=15, speaker=1) #, ref_vector=embedding, speaker=speaker_i) #, **gen_kw, speaker 0 = bad audio, speaker 1 = better audio   
+                mel, mel_lens, *_ = self.generator(text, pace=0.95, max_duration=15, speaker=spkr, language=lang) #, ref_vector=embedding, speaker=speaker_i) #, **gen_kw, speaker 0 = bad audio, speaker 1 = better audio   
             
             mel_np = mel.float().data.cpu().numpy()[0]
             blurred_f = ndimage.gaussian_filter(mel_np, 1.0) #3
@@ -251,12 +251,13 @@ if __name__ == '__main__':
         
     #syn.speak("Gå lij riek mælggadav vádtsám, de bådij vijmak tjáppa vuobmáj.")
     i = 0
-    
+    spkr = 1
+    lang = 1
     while (1==1):
         
         text = input(">")
         text1 = text.split(" ")
-        syn.speak(text, output_file="inf_output_exp_sma/"+str(i)+"_"+text1[0]+"_FP_"+fastpitch_n_shortest+"univnet")
+        syn.speak(text, output_file="inf_output_exp_sma/"+str(i)+"_"+text1[0]+"_FP_"+fastpitch_n_shortest+"univnet", spkr=spkr, lang=lang)
         i += 1
 
         
