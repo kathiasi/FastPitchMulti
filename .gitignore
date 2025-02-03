@@ -6,3 +6,4 @@ apex/.gitignore
 apex/.gitmodules
 debug_epoch/
 output_multilang/
+fastpitch/__pycache__/
