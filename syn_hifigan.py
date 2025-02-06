@@ -6,7 +6,7 @@ import sys
 import warnings
 #from pathlib import Path
 
-from nemo.collections.tts.models import UnivNetModel
+
 
 import torch
 import numpy as np
@@ -24,11 +24,11 @@ from common.text.text_processing import TextProcessing
 
 import os
 #os.environ["CUDA_VISIBLE_DEVICES"]=""
-device = "cuda:0"
-#device = "cpu"
-vocoder = "univnet"
-vocoder1 = "hifigan"
+#device = "cuda:0"
+device = "cpu"
 
+vocoder = "hifigan"
+SHARPEN = True
 from hifigan.data_function import MAX_WAV_VALUE, mel_spectrogram
 from hifigan.models import Denoiser
 import json
@@ -129,6 +129,7 @@ def load_and_setup_model(model_name, parser, checkpoint, amp, device,
                          unk_args=[], forward_is_infer=False, ema=True,
                          jitable=False):
 
+
     model_parser = models.parse_model_args(model_name, parser, add_help=False)
     model_args, model_unk_args = model_parser.parse_known_args()
     unk_args[:] = list(set(unk_args) & set(model_unk_args))
@@ -153,8 +154,9 @@ def load_and_setup_model(model_name, parser, checkpoint, amp, device,
 class Synthesizer:
 
     def _load_pyt_or_ts_model(self, model_name, ckpt_path, format = 'pyt'):
+
         if format == 'ts':
-          
+
             model = models.load_and_setup_ts_model(model_name, ckpt_path,
                                                    False, device)
             model_train_setup = {}
@@ -164,7 +166,7 @@ class Synthesizer:
         model, _, model_train_setup = models.load_and_setup_model(
             model_name, self.parser, ckpt_path, False, device,
             unk_args=self.unk_args, forward_is_infer=True, jitable=is_ts_based_infer)
-
+        
         if is_ts_based_infer:
             model = torch.jit.script(model)
         return model, model_train_setup
@@ -184,10 +186,11 @@ class Synthesizer:
         
 
         self.hifigan_model = "pretrained_models/hifigan/hifigan_gen_checkpoint_10000_ft.pt" # Better with Sander!
+
         #self.hifigan_model = "pretrained_models/hifigan/hifigan_gen_checkpoint_6500.pt"
-        self.vocoder = UnivNetModel.from_pretrained(model_name="tts_en_libritts_univnet")
-        #self.vocoder1, voc_train_setup= self._load_pyt_or_ts_model('HiFi-GAN', self.hifigan_model)
-        self.denoiser = Denoiser(self.vocoder1,device=device) #, win_length=self.args.win_length).to(device)
+        #self.vocoder = UnivNetModel.from_pretrained(model_name="tts_en_libritts_univnet")
+        self.vocoder, voc_train_setup= self._load_pyt_or_ts_model('HiFi-GAN', self.hifigan_model)
+        self.denoiser = Denoiser(self.vocoder,device=device) #, win_length=self.args.win_length).to(device)
         self.tp = TextProcessing(self.args.symbol_set, self.args.text_cleaners, p_arpabet=0.0)
         
         
@@ -199,16 +202,34 @@ class Synthesizer:
         text = torch.LongTensor([text]).to(device)
         #probs = surprisals
         for p in [0]:
-            #probs = np.array(surprisals)
-           
-            #probs = torch.Tensor([probs]).to(device)
-                      
-            #embedding = torch.from_numpy(style_embedding).to(device).float()
-        
+                  
             with torch.no_grad():
                
-                mel, mel_lens, *_ = self.generator(text, pace=pace, max_duration=15, speaker=spkr, language=lang) #, ref_vector=embedding, speaker=speaker_i) #, **gen_kw, speaker 0 = bad audio, speaker 1 = better audio   
-            
+                mel, mel_lens, *_ = self.generator(text, pace, max_duration=15, speaker=spkr, language=lang) #, ref_vector=embedding, speaker=speaker_i) #, **gen_kw, speaker 0 = bad audio, speaker 1 = better audio   
+             
+            if SHARPEN:
+                mel_np = mel.float().data.cpu().numpy()[0]
+
+           
+                blurred_f = ndimage.gaussian_filter(mel_np, 1.0) #1
+                alpha = 0.3 #0.3 ta
+                mel_np = mel_np + alpha * (mel_np - blurred_f)
+                """
+                blurred_f = ndimage.gaussian_filter(mel_np, 3.0) #3
+                alpha = 0.1 # 0.1 ta
+                mel_np = mel_np + alpha * (mel_np - blurred_f)
+                """
+                blurred_f = ndimage.gaussian_filter(mel_np, 5.0) #5
+                alpha = 0.05 # 0.1 ta
+                mel_np = mel_np + alpha * (mel_np - blurred_f)
+                tgt_min = -11
+                tgt_max = 1.
+                mel_np = (mel_np-np.min(mel_np))/ (np.max(mel_np)-np.min(mel_np)) * (tgt_max - tgt_min) + tgt_min
+                for i in range(0,80):
+                    mel_np[i, :]+=(i-30)*0.02 #0.01 ta
+                
+                mel[0] = torch.from_numpy(mel_np).float().to(device)
+            """
             mel_np = mel.float().data.cpu().numpy()[0]
             blurred_f = ndimage.gaussian_filter(mel_np, 1.0) #3
             alpha = 0.2 #0.3 ta
@@ -221,10 +242,10 @@ class Synthesizer:
                 sharpened[i, :]+=(i-40)*0.01 #0.01 ta
             mel[0] = torch.from_numpy(sharpened).float().to(device)
             
-            
+            """
             with torch.no_grad():
-                y_g_hat = self.vocoder(spec=mel).float()
-                #y_g_hat = self.vocoder1(mel).float() ###########
+
+                y_g_hat = self.vocoder(mel).float() ###########
                 y_g_hat = self.denoiser(y_g_hat.squeeze(1), strength=0.01) #[:, 0]
                 audio = y_g_hat.squeeze()
                 # normalize volume
@@ -233,8 +254,8 @@ class Synthesizer:
                    
                     
                 write(output_file+".wav", 22050, audio)
-            # ANT: Remove playing form here so GUI doesn't play twice
-            #os.system("play -q "+output_file+".wav")
+            
+            os.system("play -q "+output_file+".wav")
             return audio
     
 
@@ -262,10 +283,14 @@ if __name__ == '__main__':
         
         text = input(">")
         text1 = text.split(" ")
+        syn.speak(text, output_file="/tmp/tmp.wav", spkr=6, lang=1)
+        syn.speak(text, output_file="/tmp/tmp.wav", spkr=7, lang=1)
+        continue
         for s in range(1,10):
             for l in range(3): ## 
                 print("speaker", s, "language", l) ##
-                syn.speak(text, output_file="/home/hiovain/DeepLearningExamples/PyTorch/SpeechSynthesis/FastPitchMulti/inf_output_multi/"+str(i)+"_"+text1[0]+"_"+str(s)+"_"+str(l)+"_FP_"+fastpitch_n_shortest+"univnet", spkr=s, lang=l)
+                syn.speak(text, output_file="/tmp/"+str(i)+"_"+text1[0]+"_"+str(s)+"_"+str(l)+"_FP_"+fastpitch_n_shortest+"univnet", spkr=s, lang=l)
+                #syn.speak(text, output_file="/home/hiovain/DeepLearningExamples/PyTorch/SpeechSynthesis/FastPitchMulti/inf_output_multi/"+str(i)+"_"+text1[0]+"_"+str(s)+"_"+str(l)+"_FP_"+fastpitch_n_shortest+"univnet", spkr=s, lang=l)
                 i += 1
 
         
