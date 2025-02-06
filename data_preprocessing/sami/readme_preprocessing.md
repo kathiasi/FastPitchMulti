@@ -4,6 +4,10 @@
 
 The Sámi dataset consists of recordings in three different Sámi language: North, Lule and South, abbreviated as sme, smj and sma, respectively. We have altogether 8 different speakers in the dataset: 3 for North Sámi, 4 for Lule Sámi and 1 for South Sámi.
 
+### Language-independent processing pipeline
+
+In this section, we describe the pipeline for file preprocessing that we have done for all Sámi datasets. Some datasets might have been additionally processed with more steps (depending on the initial quality of the data) which we describe in language-dependent subsections below.
+
 For all speakers and subsets, we have processed raw recordings as follows:
 * Converting all audio files to .wav and text files to .txt if needed.
 * Checking that the texts match the audio recordings as accurately as possible and editing the text if it diverged from the audio. Normalizing (manually) all numbers, abbreviations and acronyms to match the audio.
@@ -12,7 +16,8 @@ For all speakers and subsets, we have processed raw recordings as follows:
 * After checking all TextGrids for the sentence boundaries, we run a python script (split_sound_by_labeled_intervals_from_tgs_in_a_folder.py) to save all labeled and checked intervals into sentence-long individual files (.wav and .txt containing the individual text transcript).
 * Then, we run a python script that collects all sound files and corresponding text transcripts in a single table (make_table_wavs_txts.py) 
 
-* In FastPitch, all files need to be converted from 44.1 khz .wav to 22 khz. For this, we have used librosa python package.
+* In FastPitch, all files need to be converted from 44.1 khz .wav to 22 khz. For this, we have used command line tool sox.
+
 ### North Sámi
 
 
