@@ -192,7 +192,7 @@ class Synthesizer:
         
         
     # def speak(self, text): #, style_embedding, surprisals, output_file="/tmp/tmp", speaker_i = 0):
-    def speak(self, text, output_file="/tmp/tmp", spkr=0, lang=0, pace=0.95):
+    def speak(self, text, output_file="/tmp/tmp", lang=0, spkr=0, l_weight=1, s_weight=1, pace=0.95):
 
         text = self.tp.encode_text(text)
         #text = [9]+self.tp.encode_text(text)+[9]
@@ -207,7 +207,7 @@ class Synthesizer:
         
             with torch.no_grad():
                
-                mel, mel_lens, *_ = self.generator(text, pace=pace, max_duration=15, speaker=spkr, language=lang) #, ref_vector=embedding, speaker=speaker_i) #, **gen_kw, speaker 0 = bad audio, speaker 1 = better audio   
+                mel, mel_lens, *_ = self.generator(text, pace=pace, max_duration=15, speaker=spkr, language=lang, speaker_weight=s_weight, language_weight=l_weight) #, ref_vector=embedding, speaker=speaker_i) #, **gen_kw, speaker 0 = bad audio, speaker 1 = better audio   
             
             mel_np = mel.float().data.cpu().numpy()[0]
             blurred_f = ndimage.gaussian_filter(mel_np, 1.0) #3

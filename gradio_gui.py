@@ -1,6 +1,6 @@
 import gradio as gr
-#import syn_hifigan as syn
-import syn_k_univnet_multi as syn
+import syn_hifigan as syn
+#import syn_k_univnet_multi as syn
 import os, tempfile
         
 languages = {"South Sámi":0,
@@ -18,7 +18,7 @@ speakers={"aj0": 0,
           "mu": 8,
           "sa": 9
 }
-public=True
+public=False
 
 tempdir = tempfile.gettempdir()
 
@@ -26,7 +26,7 @@ tts = syn.Synthesizer()
 
 
 
-def speak(text, language,speaker,pace): #pitch_shift,pitch_std):
+def speak(text, language,speaker,l_weight, s_weight, pace): #pitch_shift,pitch_std):
 
 
 
@@ -34,7 +34,7 @@ def speak(text, language,speaker,pace): #pitch_shift,pitch_std):
     text = text.replace("...", "…")
     print(speakers[speaker])
     audio = tts.speak(text, output_file=f'{tempdir}/tmp', lang=languages[language],
-                      spkr=speakers[speaker],
+                      spkr=speakers[speaker], l_weight=l_weight, s_weight=s_weight,
                       pace=pace)
 
     if not public:
@@ -52,8 +52,8 @@ controls.append(gr.Textbox(label="text", value="Suohtas duinna deaivvadit."))
 controls.append(gr.Dropdown(list(languages.keys()), label="language", value="North Sámi"))
 controls.append(gr.Dropdown(list(speakers.keys()), label="speaker", value="ms"))
 
-#controls.append(gr.Slider(minimum=0.0, maximum=2.0, step=0.05, value=1, label="Style strength"))
-#controls.append(gr.Slider(minimum=-50.0, maximum=50, step=5, value=0, label="Pitch shift"))
+controls.append(gr.Slider(minimum=0.5, maximum=1.5, step=0.05, value=1, label="Language weight"))
+controls.append(gr.Slider(minimum=0.5, maximum=1.5, step=0.05, value=1, label="Speaker weight"))
 #controls.append(gr.Slider(minimum=0.5, maximum=1.5, step=0.05, value=1.0, label="Pitch variance"))
 controls.append(gr.Slider(minimum=0.5, maximum=1.5, step=0.05, value=1.0, label="speech rate"))
 
