@@ -186,7 +186,7 @@ class Synthesizer:
         self.hifigan_model = "pretrained_models/hifigan/hifigan_gen_checkpoint_10000_ft.pt" # Better with Sander!
         #self.hifigan_model = "pretrained_models/hifigan/hifigan_gen_checkpoint_6500.pt"
         self.vocoder = UnivNetModel.from_pretrained(model_name="tts_en_libritts_univnet")
-        #self.vocoder1, voc_train_setup= self._load_pyt_or_ts_model('HiFi-GAN', self.hifigan_model)
+        self.vocoder1, voc_train_setup= self._load_pyt_or_ts_model('HiFi-GAN', self.hifigan_model)
         self.denoiser = Denoiser(self.vocoder1,device=device) #, win_length=self.args.win_length).to(device)
         self.tp = TextProcessing(self.args.symbol_set, self.args.text_cleaners, p_arpabet=0.0)
         
