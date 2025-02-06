@@ -1,0 +1,16 @@
+Speaker Mapping:
+aj0: 0
+aj1: 1
+am: 2
+bi: 3
+kd: 4
+ln: 5
+lo: 6
+ms: 7
+mu: 8
+sa: 9
+
+Language Mapping:
+sma: 0
+sme: 1
+smj: 2
