@@ -226,7 +226,9 @@ class Synthesizer:
                 y_g_hat = self.vocoder(spec=mel).float()
                 #y_g_hat = self.vocoder1(mel).float() ###########
                 y_g_hat = self.denoiser(y_g_hat.squeeze(1), strength=0.01) #[:, 0]
-                audio = y_g_hat.squeeze()* 32768.0
+                audio = y_g_hat.squeeze()
+                # normalize volume
+                audio = audio/torch.max(torch.abs(audio))*32768
                 audio = audio.cpu().numpy().astype('int16')
                    
                     
