@@ -56,7 +56,7 @@ def parse_args(parser):
     #parser.add_argument('--fastpitch', type=str, default='output_smj_sander/FastPitch_checkpoint_660.pt',
                         #help='Full path to the generator checkpoint file (skip to use ground truth mels)') #########
 
-    parser.add_argument('--fastpitch', type=str, default='output_multilang/FastPitch_checkpoint_10.pt',
+    parser.add_argument('--fastpitch', type=str, default='output_multilang/FastPitch_checkpoint_100.pt',
                         help='Full path to the generator checkpoint file (skip to use ground truth mels)') #########    
 
     parser.add_argument('-d', '--denoising-strength', default=0.01, type=float,
@@ -261,9 +261,9 @@ if __name__ == '__main__':
         text = input(">")
         text1 = text.split(" ")
         for s in range(1,10):
-            #for l in range(3):
-            print("speaker", s, "language", lang)
-            syn.speak(text, output_file="/tmp/"+str(i)+"_"+text1[0]+"_FP_"+fastpitch_n_shortest+"univnet", spkr=s, lang=lang)
-            i += 1
+            for l in range(3): ## 
+                print("speaker", s, "language", l) ##
+                syn.speak(text, output_file="/home/hiovain/DeepLearningExamples/PyTorch/SpeechSynthesis/FastPitchMulti/inf_output_multi/"+str(i)+"_"+text1[0]+"_"+str(s)+"_"+str(l)+"_FP_"+fastpitch_n_shortest+"univnet", spkr=s, lang=l)
+                i += 1
 
         
