@@ -9,7 +9,7 @@ languages = {"South Sámi":0,
 
 speakers={"aj0": 0,
           "aj1": 1,
-          "am2": 2,
+          "am": 2,
           "bi": 3,
           "kd": 4,
           "ln": 5,
@@ -18,7 +18,7 @@ speakers={"aj0": 0,
           "mu": 8,
           "sa": 9
 }
-public=False
+public=True
 
 tempdir = tempfile.gettempdir()
 
