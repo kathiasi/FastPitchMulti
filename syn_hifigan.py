@@ -194,7 +194,12 @@ class Synthesizer:
         self.tp = TextProcessing(self.args.symbol_set, self.args.text_cleaners, p_arpabet=0.0)
         
         
-    # def speak(self, text): #, style_embedding, surprisals, output_file="/tmp/tmp", speaker_i = 0):
+   
+    def unsharp_mask(self, img, radius=1, amount=1):
+        blurred = ndimage.gaussian_filter(img, radius)
+        sharpened = img + amount * ( img - blurred)
+        return sharpened
+
     def speak(self, text, output_file="/tmp/tmp", spkr=0, lang=0, l_weight=1, s_weight=1, pace=0.95):
 
         text = self.tp.encode_text(text)
@@ -208,26 +213,18 @@ class Synthesizer:
                 mel, mel_lens, *_ = self.generator(text, pace, max_duration=15, speaker=spkr, language=lang, speaker_weight=s_weight, language_weight=l_weight) #, ref_vector=embedding, speaker=speaker_i) #, **gen_kw, speaker 0 = bad audio, speaker 1 = better audio   
              
             if SHARPEN:
-                mel_np = mel.float().data.cpu().numpy()[0]
-
-           
-                blurred_f = ndimage.gaussian_filter(mel_np, 1.0) #1
-                alpha = 0.3 #0.3 ta
-                mel_np = mel_np + alpha * (mel_np - blurred_f)
-                """
-                blurred_f = ndimage.gaussian_filter(mel_np, 3.0) #3
-                alpha = 0.1 # 0.1 ta
-                mel_np = mel_np + alpha * (mel_np - blurred_f)
-                """
-                blurred_f = ndimage.gaussian_filter(mel_np, 5.0) #5
-                alpha = 0.05 # 0.1 ta
-                mel_np = mel_np + alpha * (mel_np - blurred_f)
-                tgt_min = -11
-                tgt_max = 1.
-                mel_np = (mel_np-np.min(mel_np))/ (np.max(mel_np)-np.min(mel_np)) * (tgt_max - tgt_min) + tgt_min
-                for i in range(0,80):
-                    mel_np[i, :]+=(i-30)*0.02 #0.01 ta
                 
+                mel_np = mel.float().data.cpu().numpy()[0]
+                tgt_min = -11
+                tgt_max = 1.5
+                #print(np.min(mel_np), np.max(mel_np))
+                mel_np = self.unsharp_mask(mel_np, radius = 0.5, amount=1)
+                mel_np = self.unsharp_mask(mel_np, radius = 3, amount=.05)
+                # mel_np = self.unsharp_mask(mel_np, radius = 7, amount=0.05)
+  
+                for i in range(0, 80):
+                    mel_np[i,:]+=(i-30)*0.02
+                mel_np = (mel_np-np.min(mel_np))/ (np.max(mel_np)-np.min(mel_np)) * (tgt_max - tgt_min) + tgt_min
                 mel[0] = torch.from_numpy(mel_np).float().to(device)
             """
             mel_np = mel.float().data.cpu().numpy()[0]
@@ -249,7 +246,7 @@ class Synthesizer:
                 y_g_hat = self.denoiser(y_g_hat.squeeze(1), strength=0.01) #[:, 0]
                 audio = y_g_hat.squeeze()
                 # normalize volume
-                audio = audio/torch.max(torch.abs(audio))*32768
+                audio = audio/torch.max(torch.abs(audio))*0.95*32768
                 audio = audio.cpu().numpy().astype('int16')
                    
                     

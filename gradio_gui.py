@@ -1,6 +1,6 @@
 import gradio as gr
-#import syn_hifigan as syn
-import syn_k_univnet_multi as syn
+import syn_hifigan as syn
+#import syn_k_univnet_multi as syn
 import os, tempfile
         
 languages = {"South Sámi":0,
