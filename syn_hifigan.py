@@ -200,7 +200,7 @@ class Synthesizer:
         sharpened = img + amount * ( img - blurred)
         return sharpened
 
-    def speak(self, text, output_file="/tmp/tmp", spkr=0, lang=0, l_weight=1, s_weight=1, pace=0.95):
+    def speak(self, text, output_file="/tmp/tmp", spkr=0, lang=0, l_weight=1, s_weight=1, pace=0.95, clarity=1):
 
         text = self.tp.encode_text(text)
         #text = [9]+self.tp.encode_text(text)+[9]
@@ -223,7 +223,7 @@ class Synthesizer:
                 # mel_np = self.unsharp_mask(mel_np, radius = 7, amount=0.05)
   
                 for i in range(0, 80):
-                    mel_np[i,:]+=(i-30)*0.02
+                    mel_np[i,:]+=(i-30)*clarity*0.02
                 mel_np = (mel_np-np.min(mel_np))/ (np.max(mel_np)-np.min(mel_np)) * (tgt_max - tgt_min) + tgt_min
                 mel[0] = torch.from_numpy(mel_np).float().to(device)
             """
@@ -243,7 +243,7 @@ class Synthesizer:
             with torch.no_grad():
 
                 y_g_hat = self.vocoder(mel).float() ###########
-                y_g_hat = self.denoiser(y_g_hat.squeeze(1), strength=0.01) #[:, 0]
+                #y_g_hat = self.denoiser(y_g_hat.squeeze(1), strength=0.01) #[:, 0]
                 audio = y_g_hat.squeeze()
                 # normalize volume
                 audio = audio/torch.max(torch.abs(audio))*0.95*32768

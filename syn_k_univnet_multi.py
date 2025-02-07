@@ -196,7 +196,7 @@ class Synthesizer:
         return sharpened
     
     #
-    def speak(self, text, output_file="/tmp/tmp", lang=0, spkr=0, l_weight=1, s_weight=1, pace=0.95):
+    def speak(self, text, output_file="/tmp/tmp", lang=0, spkr=0, l_weight=1, s_weight=1, pace=0.95,clarity=1):
 
         text = self.tp.encode_text(text)
         #text = [9]+self.tp.encode_text(text)+[9]
@@ -219,7 +219,7 @@ class Synthesizer:
                 # mel_np = self.unsharp_mask(mel_np, radius = 7, amount=0.05)
   
                 for i in range(0, 80):
-                    mel_np[i,:]+=(i-30)*0.01
+                    mel_np[i,:]+=(i-30)*clarity
                 mel_np = (mel_np-np.min(mel_np))/ (np.max(mel_np)-np.min(mel_np)) * (tgt_max - tgt_min) + tgt_min
                 mel[0] = torch.from_numpy(mel_np).float().to(device)
             

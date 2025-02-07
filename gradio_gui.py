@@ -26,7 +26,7 @@ tts = syn.Synthesizer()
 
 
 
-def speak(text, language,speaker,l_weight, s_weight, pace): #pitch_shift,pitch_std):
+def speak(text, language,speaker,l_weight, s_weight, pace, postfilter): #pitch_shift,pitch_std):
 
 
 
@@ -35,7 +35,7 @@ def speak(text, language,speaker,l_weight, s_weight, pace): #pitch_shift,pitch_s
     print(speakers[speaker])
     audio = tts.speak(text, output_file=f'{tempdir}/tmp', lang=languages[language],
                       spkr=speakers[speaker], l_weight=l_weight, s_weight=s_weight,
-                      pace=pace)
+                      pace=pace, clarity=postfilter)
 
     if not public:
         try:
@@ -52,10 +52,11 @@ controls.append(gr.Textbox(label="text", value="Suohtas duinna deaivvadit."))
 controls.append(gr.Dropdown(list(languages.keys()), label="language", value="North Sámi"))
 controls.append(gr.Dropdown(list(speakers.keys()), label="speaker", value="ms"))
 
-controls.append(gr.Slider(minimum=0.5, maximum=1.5, step=0.05, value=1, label="Language weight"))
-controls.append(gr.Slider(minimum=0.5, maximum=1.5, step=0.05, value=1, label="Speaker weight"))
-#controls.append(gr.Slider(minimum=0.5, maximum=1.5, step=0.05, value=1.0, label="Pitch variance"))
+controls.append(gr.Slider(minimum=0.5, maximum=1.5, step=0.05, value=1, label="language weight"))
+controls.append(gr.Slider(minimum=0.5, maximum=1.5, step=0.05, value=1, label="speaker weight"))
+
 controls.append(gr.Slider(minimum=0.5, maximum=1.5, step=0.05, value=1.0, label="speech rate"))
+controls.append(gr.Slider(minimum=0., maximum=2, step=0.05, value=1.0, label="post-processing"))
 
 
 
