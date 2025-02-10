@@ -18,7 +18,7 @@ For all speakers and subsets, we have processed raw recordings as follows:
 
 * In FastPitch, all files need to be converted from 44.1 khz .wav to 22 khz. For this, we have used command line tool sox.
 
-* PitchSqueezer: https://asuni.github.io/PitchSqueezer/doc/pitch_squeezer.html was used to extract pitch from each individual speaker. For male speaker we used a range of 80-350 Hz and for female speakers 100-400 Hz. 
+* PitchSqueezer: https://asuni.github.io/PitchSqueezer/doc/pitch_squeezer.html was used to extract pitch from each individual speaker. For male speaker we used a range of 60-350 Hz and for female speakers 100-500 Hz. 
 
 ### North Sámi
 
