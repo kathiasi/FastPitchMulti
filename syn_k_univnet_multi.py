@@ -56,7 +56,7 @@ def parse_args(parser):
     #parser.add_argument('--fastpitch', type=str, default='output_smj_sander/FastPitch_checkpoint_660.pt',
                         #help='Full path to the generator checkpoint file (skip to use ground truth mels)') #########
 
-    parser.add_argument('--fastpitch', type=str, default='output_multilang/FastPitch_checkpoint_100.pt',
+    parser.add_argument('--fastpitch', type=str, default='output_multilang/FastPitch_checkpoint_200.pt',
                         help='Full path to the generator checkpoint file (skip to use ground truth mels)') #########    
 
     parser.add_argument('-d', '--denoising-strength', default=0.01, type=float,
