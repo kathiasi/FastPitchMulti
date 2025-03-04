@@ -16,7 +16,7 @@ For all speakers and subsets, we have processed raw recordings as follows:
 * After checking all TextGrids for the sentence boundaries, we run a python script (split_sound_by_labeled_intervals_from_tgs_in_a_folder.py) to save all labeled and checked intervals into sentence-long individual files (.wav and .txt containing the individual text transcript).
 * Then, we run a python script that collects all sound files and corresponding text transcripts in a single table (make_table_wavs_txts.py) 
 
-* In FastPitch, all files need to be converted from 44.1 khz .wav to 22 khz. For this, we have used command line tool sox.
+* In FastPitch, all files need to be converted from 44.1 khz .wav to 22 khz. For this, we have used command line tool sox or SoundConverter Linux software.
 
 * PitchSqueezer: https://asuni.github.io/PitchSqueezer/doc/pitch_squeezer.html was used to extract pitch from each individual speaker. For male speaker we used a range of 60-350 Hz and for female speakers 100-500 Hz. 
 

@@ -1,0 +1,341 @@
+sme/north_sami_female_3/3-quantities-sentences_000.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_000.pt|Mus lea okta siessá dál.|2|0
+sme/north_sami_female_3/3-quantities-sentences_001.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_001.pt|Dus lea guokte beanna eambbo.|2|0
+sme/north_sami_female_3/3-quantities-sentences_002.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_002.pt|Govas lea okta gussa gurutbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_003.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_003.pt|Dus lea guokte fuola odne.|2|0
+sme/north_sami_female_3/3-quantities-sentences_004.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_004.pt|Govas lea guokte duvvá olgesbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_005.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_005.pt|Ruoŧas lea guokte duollu rajis.|2|0
+sme/north_sami_female_3/3-quantities-sentences_006.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_006.pt|Govas lea okta hearra olgesbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_007.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_007.pt|Govas lea okta vavva gurutbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_008.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_008.pt|Govas lea guokte njuni olgesbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_009.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_009.pt|Dus lea guokte guoli eambbo.|2|0
+sme/north_sami_female_3/3-quantities-sentences_010.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_010.pt|Govas lea okta njunni gurutbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_011.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_011.pt|Govas lea guokte gusa olgesbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_012.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_012.pt|Mus lea okta beanna dás.|2|0
+sme/north_sami_female_3/3-quantities-sentences_013.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_013.pt|Doppe lea okta gilli guhkkin.|2|0
+sme/north_sami_female_3/3-quantities-sentences_014.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_014.pt|Dus lea guokte biellu eambbo.|2|0
+sme/north_sami_female_3/3-quantities-sentences_015.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_015.pt|Mus lea okta rulla dás.|2|0
+sme/north_sami_female_3/3-quantities-sentences_016.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_016.pt|Govas lea guokte viesu olgesbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_017.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_017.pt|Dus lea guokte rišša eambbo.|2|0
+sme/north_sami_female_3/3-quantities-sentences_018.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_018.pt|Dus lea guokte neavvu munnje.|2|0
+sme/north_sami_female_3/3-quantities-sentences_019.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_019.pt|Dis lea guokte vieru dál.|2|0
+sme/north_sami_female_3/3-quantities-sentences_020.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_020.pt|Dus lea guokte homma ihttin.|2|0
+sme/north_sami_female_3/3-quantities-sentences_021.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_021.pt|Mus lea okta silli dás.|2|0
+sme/north_sami_female_3/3-quantities-sentences_022.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_022.pt|Mus lea okta skearru dás.|2|0
+sme/north_sami_female_3/3-quantities-sentences_023.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_023.pt|Govas lea guokte rissi olgesbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_024.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_024.pt|Govas lea okta mearra guhkkin.|2|0
+sme/north_sami_female_3/3-quantities-sentences_025.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_025.pt|Mis lea okta vierru dál.|2|0
+sme/north_sami_female_3/3-quantities-sentences_026.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_026.pt|Suomas lea okta duollu rajis.|2|0
+sme/north_sami_female_3/3-quantities-sentences_027.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_027.pt|Mis lea okta guossi dál.|2|0
+sme/north_sami_female_3/3-quantities-sentences_028.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_028.pt|Mus lea okta neavvu dutnje.|2|0
+sme/north_sami_female_3/3-quantities-sentences_029.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_029.pt|Dus lea guokte siesá dál.|2|0
+sme/north_sami_female_3/3-quantities-sentences_030.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_030.pt|Govas lea okta soffá gurutbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_031.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_031.pt|Dus lea guokte silli eambbo.|2|0
+sme/north_sami_female_3/3-quantities-sentences_032.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_032.pt|Dus lea guokte nama eambbo.|2|0
+sme/north_sami_female_3/3-quantities-sentences_033.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_033.pt|Dus lea guokte luosa eambbo.|2|0
+sme/north_sami_female_3/3-quantities-sentences_034.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_034.pt|Govas lea okta muođđa gurutbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_035.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_035.pt|Mus lea okta luossa dál.|2|0
+sme/north_sami_female_3/3-quantities-sentences_036.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_036.pt|Mus lea okta bussá dás.|2|0
+sme/north_sami_female_3/3-quantities-sentences_037.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_037.pt|Doppe lea guokte nina lahka.|2|0
+sme/north_sami_female_3/3-quantities-sentences_038.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_038.pt|Govas lea guokte miesi olgesbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_039.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_039.pt|Govas lea guokte meara lahka.|2|0
+sme/north_sami_female_3/3-quantities-sentences_040.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_040.pt|Mus lea okta guolli dás.|2|0
+sme/north_sami_female_3/3-quantities-sentences_041.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_041.pt|Govas lea guokte vavva olgesbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_042.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_042.pt|Govas lea guokte hummu bajábealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_043.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_043.pt|Doppe lea okta dolla guhkkin.|2|0
+sme/north_sami_female_3/3-quantities-sentences_044.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_044.pt|Dus lea guokte guossi odne.|2|0
+sme/north_sami_female_3/3-quantities-sentences_045.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_045.pt|Mus lea okta homma odne.|2|0
+sme/north_sami_female_3/3-quantities-sentences_046.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_046.pt|Govas lea okta rissi gurutbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_047.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_047.pt|Govas lea okta haŋŋá vuolábealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_048.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_048.pt|Govas lea guokte haŋŋá bajábealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_049.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_049.pt|Govas lea okta monni gurutbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_050.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_050.pt|Govas lea okta miessi gurutbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_051.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_051.pt|Doppe lea guokte gili lahka.|2|0
+sme/north_sami_female_3/3-quantities-sentences_052.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_052.pt|Dus lea guokte balu dál.|2|0
+sme/north_sami_female_3/3-quantities-sentences_053.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_053.pt|Govas lea guokte soffá olgesbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_054.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_054.pt|Mus lea okta sivva odne.|2|0
+sme/north_sami_female_3/3-quantities-sentences_055.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_055.pt|Govas lea okta viessu gurutbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_056.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_056.pt|Dus lea guokte siva odne.|2|0
+sme/north_sami_female_3/3-quantities-sentences_057.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_057.pt|Mus lea okta rišša dás.|2|0
+sme/north_sami_female_3/3-quantities-sentences_058.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_058.pt|Govas lea okta duvvá gurutbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_059.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_059.pt|Govas lea okta hummu vuolábealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_060.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_060.pt|Govas lea okta hearra gurutbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_061.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_061.pt|Mus lea okta biellu dás.|2|0
+sme/north_sami_female_3/3-quantities-sentences_062.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_062.pt|Dus lea guokte skearru eambbo.|2|0
+sme/north_sami_female_3/3-quantities-sentences_063.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_063.pt|Mus lea okta fuolla odne.|2|0
+sme/north_sami_female_3/3-quantities-sentences_064.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_064.pt|Dus lea guokte gova dás.|2|0
+sme/north_sami_female_3/3-quantities-sentences_065.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_065.pt|Doppe lea okta ninna guhkkin.|2|0
+sme/north_sami_female_3/3-quantities-sentences_066.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_066.pt|Dus lea guokte bussá eambbo.|2|0
+sme/north_sami_female_3/3-quantities-sentences_067.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_067.pt|Dus lea guokte vaši odne.|2|0
+sme/north_sami_female_3/3-quantities-sentences_068.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_068.pt|Govas lea guokte burru olgesbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_069.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_069.pt|Govas lea okta golli vuolábealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_070.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_070.pt|Mus lea okta namma dál.|2|0
+sme/north_sami_female_3/3-quantities-sentences_071.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_071.pt|Mus lea okta ballu dál.|2|0
+sme/north_sami_female_3/3-quantities-sentences_072.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_072.pt|Doppe lea guokte dola lahka.|2|0
+sme/north_sami_female_3/3-quantities-sentences_073.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_073.pt|Govas lea guokte golli bajábealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_074.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_074.pt|Mus lea okta govva dás.|2|0
+sme/north_sami_female_3/3-quantities-sentences_075.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_075.pt|Mus lea okta vašši odne.|2|0
+sme/north_sami_female_3/3-quantities-sentences_076.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_076.pt|Govas lea okta burru gurutbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_077.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_077.pt|Govas lea guokte muođa olgesbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_078.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_078.pt|Dus lea guokte rulla eambbo.|2|0
+sme/north_sami_female_3/3-quantities-sentences_079.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_079.pt|Govas lea guokte moni olgesbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_080.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_080.pt|Govas lea guokte miesi olgesbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_081.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_081.pt|Ruoŧas lea guokte duollu rajis.|2|0
+sme/north_sami_female_3/3-quantities-sentences_082.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_082.pt|Govas lea okta soffá gurutbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_083.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_083.pt|Dus lea guokte siva odne.|2|0
+sme/north_sami_female_3/3-quantities-sentences_084.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_084.pt|Mus lea okta homma odne.|2|0
+sme/north_sami_female_3/3-quantities-sentences_085.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_085.pt|Dus lea guokte bussá eambbo.|2|0
+sme/north_sami_female_3/3-quantities-sentences_086.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_086.pt|Dus lea guokte skearru eambbo.|2|0
+sme/north_sami_female_3/3-quantities-sentences_087.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_087.pt|Govas lea okta miessi gurutbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_088.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_088.pt|Govas lea guokte duvvá olgesbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_089.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_089.pt|Mus lea okta rišša dás.|2|0
+sme/north_sami_female_3/3-quantities-sentences_090.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_090.pt|Doppe lea okta dolla guhkkin.|2|0
+sme/north_sami_female_3/3-quantities-sentences_091.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_091.pt|Govas lea guokte burru olgesbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_092.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_092.pt|Mus lea okta siessá dál.|2|0
+sme/north_sami_female_3/3-quantities-sentences_093.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_093.pt|Mus lea okta luossa dál.|2|0
+sme/north_sami_female_3/3-quantities-sentences_094.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_094.pt|Govas lea okta njunni gurutbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_095.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_095.pt|Govas lea okta golli vuolábealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_096.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_096.pt|Govas lea guokte moni olgesbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_097.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_097.pt|Doppe lea guokte dola lahka.|2|0
+sme/north_sami_female_3/3-quantities-sentences_098.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_098.pt|Mus lea okta bussá dás.|2|0
+sme/north_sami_female_3/3-quantities-sentences_099.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_099.pt|Govas lea okta burru gurutbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_100.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_100.pt|Mus lea okta sivva odne.|2|0
+sme/north_sami_female_3/3-quantities-sentences_101.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_101.pt|Govas lea guokte rissi olgesbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_102.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_102.pt|Govas lea okta hummu vuolábealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_103.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_103.pt|Dus lea guokte balu dál.|2|0
+sme/north_sami_female_3/3-quantities-sentences_104.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_104.pt|Mis lea okta guossi dál.|2|0
+sme/north_sami_female_3/3-quantities-sentences_105.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_105.pt|Govas lea okta muođđa gurutbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_106.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_106.pt|Dus lea guokte beanna eambbo.|2|0
+sme/north_sami_female_3/3-quantities-sentences_107.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_107.pt|Govas lea guokte muođa olgesbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_108.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_108.pt|Govas lea guokte gusa olgesbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_109.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_109.pt|Mus lea okta fuolla odne.|2|0
+sme/north_sami_female_3/3-quantities-sentences_110.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_110.pt|Dus lea guokte vaši odne.|2|0
+sme/north_sami_female_3/3-quantities-sentences_111.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_111.pt|Govas lea guokte haŋŋá bajábealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_112.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_112.pt|Mus lea okta ballu dál.|2|0
+sme/north_sami_female_3/3-quantities-sentences_113.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_113.pt|Mus lea okta vašši odne.|2|0
+sme/north_sami_female_3/3-quantities-sentences_114.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_114.pt|Dus lea guokte nama eambbo.|2|0
+sme/north_sami_female_3/3-quantities-sentences_115.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_115.pt|Dus lea guokte rišša eambbo.|2|0
+sme/north_sami_female_3/3-quantities-sentences_116.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_116.pt|Govas lea guokte vavva olgesbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_117.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_117.pt|Govas lea okta monni gurutbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_118.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_118.pt|Govas lea okta hearra gurutbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_119.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_119.pt|Doppe lea okta gilli guhkkin.|2|0
+sme/north_sami_female_3/3-quantities-sentences_120.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_120.pt|Govas lea guokte viesu olgesbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_121.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_121.pt|Doppe lea guokte gili lahka.|2|0
+sme/north_sami_female_3/3-quantities-sentences_122.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_122.pt|Govas lea okta viessu gurutbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_123.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_123.pt|Govas lea okta hearra olgesbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_124.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_124.pt|Mus lea okta beanna dás.|2|0
+sme/north_sami_female_3/3-quantities-sentences_125.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_125.pt|Govas lea guokte hummu bajábealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_126.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_126.pt|Doppe lea okta ninna guhkkin.|2|0
+sme/north_sami_female_3/3-quantities-sentences_127.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_127.pt|Govas lea okta vavva gurutbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_128.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_128.pt|Mus lea okta silli dás.|2|0
+sme/north_sami_female_3/3-quantities-sentences_129.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_129.pt|Dus lea guokte guoli eambbo.|2|0
+sme/north_sami_female_3/3-quantities-sentences_130.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_130.pt|Govas lea guokte meara lahka.|2|0
+sme/north_sami_female_3/3-quantities-sentences_131.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_131.pt|Govas lea okta duvvá gurutbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_132.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_132.pt|Mis lea okta vierru dál.|2|0
+sme/north_sami_female_3/3-quantities-sentences_133.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_133.pt|Govas lea okta rissi gurutbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_134.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_134.pt|Dus lea guokte silli eambbo.|2|0
+sme/north_sami_female_3/3-quantities-sentences_135.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_135.pt|Govas lea guokte golli bajábealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_136.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_136.pt|Dus lea guokte siesá dál.|2|0
+sme/north_sami_female_3/3-quantities-sentences_137.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_137.pt|Govas lea guokte soffá olgesbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_138.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_138.pt|Dis lea guokte vieru dál.|2|0
+sme/north_sami_female_3/3-quantities-sentences_139.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_139.pt|Suomas lea okta duollu rajis.|2|0
+sme/north_sami_female_3/3-quantities-sentences_140.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_140.pt|Mus lea okta namma dál.|2|0
+sme/north_sami_female_3/3-quantities-sentences_141.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_141.pt|Mus lea okta guolli dás.|2|0
+sme/north_sami_female_3/3-quantities-sentences_142.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_142.pt|Mus lea okta rulla dás.|2|0
+sme/north_sami_female_3/3-quantities-sentences_143.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_143.pt|Doppe lea guokte nina lahka.|2|0
+sme/north_sami_female_3/3-quantities-sentences_144.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_144.pt|Mus lea okta neavvu dutnje.|2|0
+sme/north_sami_female_3/3-quantities-sentences_145.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_145.pt|Mus lea okta biellu dás.|2|0
+sme/north_sami_female_3/3-quantities-sentences_146.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_146.pt|Dus lea guokte neavvu munnje.|2|0
+sme/north_sami_female_3/3-quantities-sentences_147.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_147.pt|Govas lea okta mearra guhkkin.|2|0
+sme/north_sami_female_3/3-quantities-sentences_148.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_148.pt|Dus lea guokte rulla eambbo.|2|0
+sme/north_sami_female_3/3-quantities-sentences_149.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_149.pt|Mus lea okta skearru dás.|2|0
+sme/north_sami_female_3/3-quantities-sentences_150.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_150.pt|Mus lea okta govva dás.|2|0
+sme/north_sami_female_3/3-quantities-sentences_151.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_151.pt|Govas lea okta gussa gurutbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_152.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_152.pt|Dus lea guokte fuola odne.|2|0
+sme/north_sami_female_3/3-quantities-sentences_153.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_153.pt|Dus lea guokte homma ihttin.|2|0
+sme/north_sami_female_3/3-quantities-sentences_154.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_154.pt|Dus lea guokte guossi odne.|2|0
+sme/north_sami_female_3/3-quantities-sentences_155.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_155.pt|Dus lea guokte gova dás.|2|0
+sme/north_sami_female_3/3-quantities-sentences_156.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_156.pt|Govas lea guokte njuni olgesbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_157.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_157.pt|Dus lea guokte luosa eambbo.|2|0
+sme/north_sami_female_3/3-quantities-sentences_158.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_158.pt|Govas lea okta haŋŋá vuolábealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_159.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_159.pt|Dus lea guokte biellu eambbo.|2|0
+sme/north_sami_female_3/3-quantities-sentences_160.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_160.pt|Mus lea okta siessá dál.|2|0
+sme/north_sami_female_3/3-quantities-sentences_161.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_161.pt|Dus lea guokte neavvu munnje.|2|0
+sme/north_sami_female_3/3-quantities-sentences_162.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_162.pt|Mus lea okta beanna dás.|2|0
+sme/north_sami_female_3/3-quantities-sentences_163.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_163.pt|Dis lea guokte vieru dál.|2|0
+sme/north_sami_female_3/3-quantities-sentences_164.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_164.pt|Mus lea okta biellu dás.|2|0
+sme/north_sami_female_3/3-quantities-sentences_165.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_165.pt|Dus lea guokte vaši odne.|2|0
+sme/north_sami_female_3/3-quantities-sentences_166.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_166.pt|Ruoŧas lea guokte duollu rajis.|2|0
+sme/north_sami_female_3/3-quantities-sentences_167.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_167.pt|Govas lea okta miessi gurutbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_168.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_168.pt|Dus lea guokte silli eambbo.|2|0
+sme/north_sami_female_3/3-quantities-sentences_169.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_169.pt|Doppe lea guokte gili lahka.|2|0
+sme/north_sami_female_3/3-quantities-sentences_170.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_170.pt|Govas lea guokte golli bajábealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_171.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_171.pt|Mus lea okta sivva odne.|2|0
+sme/north_sami_female_3/3-quantities-sentences_172.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_172.pt|Suomas lea okta duollu rajis.|2|0
+sme/north_sami_female_3/3-quantities-sentences_173.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_173.pt|Dus lea guokte rišša eambbo.|2|0
+sme/north_sami_female_3/3-quantities-sentences_174.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_174.pt|Mus lea okta skearru dás.|2|0
+sme/north_sami_female_3/3-quantities-sentences_175.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_175.pt|Govas lea okta viessu gurutbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_176.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_176.pt|Mus lea okta fuolla odne.|2|0
+sme/north_sami_female_3/3-quantities-sentences_177.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_177.pt|Doppe lea okta gilli guhkkin.|2|0
+sme/north_sami_female_3/3-quantities-sentences_178.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_178.pt|Govas lea okta hummu vuolábealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_179.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_179.pt|Doppe lea okta dolla guhkkin.|2|0
+sme/north_sami_female_3/3-quantities-sentences_180.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_180.pt|Mus lea okta rišša dás.|2|0
+sme/north_sami_female_3/3-quantities-sentences_181.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_181.pt|Dus lea guokte rulla eambbo.|2|0
+sme/north_sami_female_3/3-quantities-sentences_182.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_182.pt|Dus lea guokte guoli eambbo.|2|0
+sme/north_sami_female_3/3-quantities-sentences_183.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_183.pt|Govas lea guokte duvvá olgesbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_184.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_184.pt|Govas lea okta monni gurutbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_185.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_185.pt|Dus lea guokte beanna eambbo.|2|0
+sme/north_sami_female_3/3-quantities-sentences_186.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_186.pt|Mus lea okta bussá dás.|2|0
+sme/north_sami_female_3/3-quantities-sentences_187.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_187.pt|Govas lea okta duvvá gurutbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_188.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_188.pt|Govas lea okta burru gurutbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_189.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_189.pt|Govas lea okta burru gurutbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_190.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_190.pt|Mus lea okta rulla dás.|2|0
+sme/north_sami_female_3/3-quantities-sentences_191.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_191.pt|Dus lea guokte luosa eambbo.|2|0
+sme/north_sami_female_3/3-quantities-sentences_192.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_192.pt|Govas lea guokte njuni olgesbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_193.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_193.pt|Govas lea okta haŋŋá vuolábealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_194.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_194.pt|Dus lea guokte fuola odne.|2|0
+sme/north_sami_female_3/3-quantities-sentences_195.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_195.pt|Dus lea guokte homma ihttin.|2|0
+sme/north_sami_female_3/3-quantities-sentences_196.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_196.pt|Dus lea guokte guossi odne.|2|0
+sme/north_sami_female_3/3-quantities-sentences_197.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_197.pt|Dus lea guokte siesá dál.|2|0
+sme/north_sami_female_3/3-quantities-sentences_198.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_198.pt|Doppe lea okta ninna guhkkin.|2|0
+sme/north_sami_female_3/3-quantities-sentences_199.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_199.pt|Govas lea okta mearra guhkkin.|2|0
+sme/north_sami_female_3/3-quantities-sentences_200.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_200.pt|Mus lea okta homma odne.|2|0
+sme/north_sami_female_3/3-quantities-sentences_201.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_201.pt|Govas lea guokte miesi olgesbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_202.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_202.pt|Govas lea guokte soffá olgesbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_203.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_203.pt|Mis lea okta vierru dál.|2|0
+sme/north_sami_female_3/3-quantities-sentences_204.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_204.pt|Dus lea guokte siva odne.|2|0
+sme/north_sami_female_3/3-quantities-sentences_205.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_205.pt|Govas lea okta rissi gurutbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_206.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_206.pt|Dus lea guokte bussá eambbo.|2|0
+sme/north_sami_female_3/3-quantities-sentences_207.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_207.pt|Dus lea guokte skearru eambbo.|2|0
+sme/north_sami_female_3/3-quantities-sentences_208.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_208.pt|Doppe lea guokte dola lahka.|2|0
+sme/north_sami_female_3/3-quantities-sentences_209.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_209.pt|Govas lea guokte moni olgesbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_210.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_210.pt|Doppe lea guokte nina lahka.|2|0
+sme/north_sami_female_3/3-quantities-sentences_211.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_211.pt|Dus lea guokte biellu eambbo.|2|0
+sme/north_sami_female_3/3-quantities-sentences_212.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_212.pt|Govas lea okta hearra gurutbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_213.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_213.pt|Govas lea guokte gusa olgesbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_214.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_214.pt|Govas lea okta soffá gurutbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_215.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_215.pt|Govas lea guokte rissi olgesbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_216.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_216.pt|Govas lea okta gussa gurutbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_217.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_217.pt|Dus lea guokte nama eambbo.|2|0
+sme/north_sami_female_3/3-quantities-sentences_218.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_218.pt|Mus lea okta luossa dál.|2|0
+sme/north_sami_female_3/3-quantities-sentences_219.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_219.pt|Govas lea guokte viesu olgesbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_220.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_220.pt|Govas lea okta golli vuolábealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_221.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_221.pt|Mus lea okta ballu dál.|2|0
+sme/north_sami_female_3/3-quantities-sentences_222.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_222.pt|Dus lea guokte gova dás.|2|0
+sme/north_sami_female_3/3-quantities-sentences_223.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_223.pt|Mis lea okta guossi dál.|2|0
+sme/north_sami_female_3/3-quantities-sentences_224.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_224.pt|Mus lea okta namma dál.|2|0
+sme/north_sami_female_3/3-quantities-sentences_225.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_225.pt|Govas lea guokte haŋŋá bajábealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_226.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_226.pt|Mus lea okta guolli dás.|2|0
+sme/north_sami_female_3/3-quantities-sentences_227.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_227.pt|Mus lea okta vašši odne.|2|0
+sme/north_sami_female_3/3-quantities-sentences_228.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_228.pt|Govas lea okta hearra olgesbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_229.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_229.pt|Govas lea guokte muođa olgesbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_230.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_230.pt|Govas lea guokte burru olgesbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_231.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_231.pt|Govas lea guokte meara lahka.|2|0
+sme/north_sami_female_3/3-quantities-sentences_232.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_232.pt|Govas lea okta vavva gurutbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_233.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_233.pt|Mus lea okta neavvu dutnje.|2|0
+sme/north_sami_female_3/3-quantities-sentences_234.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_234.pt|Govas lea okta njunni gurutbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_235.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_235.pt|Govas lea guokte vavva olgesbealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_236.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_236.pt|Dus lea guokte balu dál.|2|0
+sme/north_sami_female_3/3-quantities-sentences_237.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_237.pt|Mus lea okta govva dás.|2|0
+sme/north_sami_female_3/3-quantities-sentences_238.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_238.pt|Govas lea guokte hummu bajábealde.|2|0
+sme/north_sami_female_3/3-quantities-sentences_239.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_239.pt|Mus lea okta silli dás.|2|0
+sme/north_sami_female_3/3-quantities-sentences_240.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_240.pt|Govas lea okta muođđa gurutbealde.|2|0
+sme/north_sami_female_3/ficti_jus_000.wav|sme/north_sami_female_3/pitch/ficti_jus_000.pt|Oktii ledje guokte nieiddaža geat oruiga lahkalaga, leigga ránnjážat.|2|0
+sme/north_sami_female_3/facta_all_part2_068.wav|sme/north_sami_female_3/pitch/facta_all_part2_068.pt|Vihtta. Guhtemuš cealkka lea riekta?|2|0
+sme/north_sami_female_1/ttsf20_029.wav|sme/north_sami_female_1/pitch/ttsf20_029.pt|Lei maid dábálaš ahte ii galgan loddet bassin.|0|0
+sme/north_sami_female_3/news_nrk_50-jagi-leat-olbmot-garvan-inger-marjja---navde-su-sahttit-goddit-ogiid-1-14988623_179.wav|sme/north_sami_female_3/pitch/news_nrk_50-jagi-leat-olbmot-garvan-inger-marjja---navde-su-sahttit-goddit-ogiid-1-14988623_179.pt|Rávdná, guhte lea badjel vihttalot jagi, lea okta dain.|2|0
+sme/north_sami_male/tts55_TRN_037.wav|sme/north_sami_male/pitch/tts55_TRN_037.pt|Huiládettiin sáhttet borjjasfatnasat maid soizzuhit.|3|0
+sme/north_sami_female_3/avvir_350_sentences_part2_007.wav|sme/north_sami_female_3/pitch/avvir_350_sentences_part2_007.pt|Lokalene skal som minimum ha egen inngang med skranker for publikumsmottak, spiserom, ee vee tee.|2|0
+sme/north_sami_female_3/facta_all_part2_103.wav|sme/north_sami_female_3/pitch/facta_all_part2_103.pt|Vákkis mii maid murjet.|2|0
+sme/north_sami_female_3/ficti_seavdnjadasa_hastalusat_part_7_017.wav|sme/north_sami_female_3/pitch/ficti_seavdnjadasa_hastalusat_part_7_017.pt|Dat guhtta máná ledje seamma agis.|2|0
+sme/north_sami_male/tts07_TRN_021.wav|sme/north_sami_male/pitch/tts07_TRN_021.pt|Siebes lávii juohke dálus vuovdá.|3|0
+sme/north_sami_female_1/ttsf26_025.wav|sme/north_sami_female_1/pitch/ttsf26_025.pt|Ruoktot manadettiin fuomášeaba ahte stohkosgávpái leat ođđa skuvlaávdnasat ihtán.|0|0
+sme/north_sami_male/tts15_TRN_019.wav|sme/north_sami_male/pitch/tts15_TRN_019.pt|Hárve leat čálus ja govva nu oktiigullevaččat go dán girjjis.|3|0
+sme/north_sami_female_3/avvir_350_sentences_part2_028.wav|sme/north_sami_female_3/pitch/avvir_350_sentences_part2_028.pt|Guovlu gos bieggafápmorusttegat leat han giddejuvvojit buohkaide, dohko ii beasa oktage, dadjá Sara.|2|0
+sme/north_sami_female_2/laila-1-dpa-fraser_mono_cut_dnhpnorm_007.wav|sme/north_sami_female_2/pitch/laila-1-dpa-fraser_mono_cut_dnhpnorm_007.pt|Aiddo lihkken.|1|0
+sme/north_sami_female_3/blogs_part2_009.wav|sme/north_sami_female_3/pitch/blogs_part2_009.pt|Eamiálbmotdutkan ja sámedutkan. Eamiálbmotdutkamuš lea suorgi mii leat maŋimuš moaddelogi jagi áigge sturron mearihis láhkai.|2|0
+sme/north_sami_female_2/laila-1-dpa-fraser_mono_cut_dnhpnorm_454.wav|sme/north_sami_female_2/pitch/laila-1-dpa-fraser_mono_cut_dnhpnorm_454.pt|Liigugo dus oatnelanbodda?|1|0
+sme/north_sami_female_2/laila-3-dpa-facta-hefte1sa-del2_mono_cut_dnhpnorm_025.wav|sme/north_sami_female_2/pitch/laila-3-dpa-facta-hefte1sa-del2_mono_cut_dnhpnorm_025.pt|Kulturipmárdus, kultuvrraidgaskasaš ipmárdus ja kultuvrraidgaskasaš gulahallan eai leat dušše teorehtalaš ja temáhtalaš lahkoneamit, dain ráhkaduvvojit praktihkalaš bihtát vai oahppit besset struktuvrralaš gulahallanhárjehusaiguin geahččaladdat duohta dilálašvuođain.|1|0
+sme/north_sami_female_1/ttsf08_050.wav|sme/north_sami_female_1/pitch/ttsf08_050.pt|Son gulai dušše oahpes jienaid, skiret mat čahrret, rievssahat mat skeiket, goddesáhpánat mat čihrret ja johka mii boršu.|0|0
+sme/north_sami_female_3/news_avvir_10-13_mek_fovsen_-oyvind_ravna_0001_article_028.wav|sme/north_sami_female_3/pitch/news_avvir_10-13_mek_fovsen_-oyvind_ravna_0001_article_028.pt|Dát duopmu muđui buktá ollu gažaldagaid viidáseappot.|2|0
+sme/north_sami_female_3/ficti_ande_ja_risten_jagi_farus_077.wav|sme/north_sami_female_3/pitch/ficti_ande_ja_risten_jagi_farus_077.pt|Ná attát sutnje niestti iežas dohkkeheapmái.|2|0
+sme/north_sami_female_2/laila-2-dpa-facta-hefte1sa-del1_mono_cut_dnhpnorm_099.wav|sme/north_sami_female_2/pitch/laila-2-dpa-facta-hefte1sa-del1_mono_cut_dnhpnorm_099.pt|Olmmoš ferte dovdat guovddáš- ja earenoamáš áššiid skuvlla doaimmas jus ieš galgá doaibmat ođđa, rievddadeaddji máilmmis.|1|0
+sme/north_sami_female_3/news_nrk_unge-samiske-artister-skal-covre-gamler-later-og-joiker-i-sgp-cover-1-14508442_107.wav|sme/north_sami_female_3/pitch/news_nrk_unge-samiske-artister-skal-covre-gamler-later-og-joiker-i-sgp-cover-1-14508442_107.pt|Ádjá lea doppe juoigan, lei go son duhátovccičuođiovccilogigolmmás.|2|0
+sme/north_sami_female_3/news_avvir_08-13_ikgk_vold_i_naere_relasjoner_handlingsplan_00_article_035.wav|sme/north_sami_female_3/pitch/news_avvir_08-13_ikgk_vold_i_naere_relasjoner_handlingsplan_00_article_035.pt|Sii leat leamaš mielde cuvkeme tabuid ja veahkehan olbmuid geat leat gillán veahkaválddi dihte.|2|0
+sme/north_sami_female_1/ttsf31_049.wav|sme/north_sami_female_1/pitch/ttsf31_049.pt|Fuomáš fal ahte bađverásis leat eará namat maid.|0|0
+sme/north_sami_female_3/MaijuSaijetsOahppabargu_205.wav|sme/north_sami_female_3/pitch/MaijuSaijetsOahppabargu_205.pt|Ja gal sámedáhpáhusain eanaš háve libarda sámeleavga.|2|0
+sme/north_sami_female_3/news_nrk_ovddadusbellodat-politihkkarat-die_ithit-ie_aset-jienastulohkui-vaikko-eai-ane-ie_aset-sapmela_an-1-1607641_057.wav|sme/north_sami_female_3/pitch/news_nrk_ovddadusbellodat-politihkkarat-die_ithit-ie_aset-jienastulohkui-vaikko-eai-ane-ie_aset-sapmela_an-1-1607641_057.pt|Dahje ahte unnimusat nubbi váhnen, dahje unnimusat okta áhkku, áddjá dahje máttarváhnen humai sámegiela ruovttus.|2|0
+sme/north_sami_female_3/MaijuSaijetsOahppabargu_080.wav|sme/north_sami_female_3/pitch/MaijuSaijetsOahppabargu_080.pt|Jus ovdána dutkamušain buhttásit materiála vuođul, de das galgá ohcagoahtit mannulágan logihka dahje typihkalaš muitalusa.|2|0
+sme/north_sami_female_1/ttsf19_028.wav|sme/north_sami_female_1/pitch/ttsf19_028.pt|Manne hui guhkás viežžat leavttu, ja de ruohtastedje hui jođánit, ja ruhtte hui lahka mánáid.|0|0
+sme/north_sami_female_3/news_nrk_da-lea-muohta_almmit-julgga_tus-1-DEL1_091.wav|sme/north_sami_female_3/pitch/news_nrk_da-lea-muohta_almmit-julgga_tus-1-DEL1_091.pt|Ovttasbargoguoimmit áigot bargat dan ala ahte mohtorjohtolaga njuolggadusat guorahallojuvvojit nu ahte njuolggadusat dorjot, fievrridit viidáseappot ja ovddidit árbevirolaš meahcásteami ja meahcceávkkástallama.|2|0
+sme/north_sami_female_1/ttsf10_047.wav|sme/north_sami_female_1/pitch/ttsf10_047.pt|Guiski lea maid muhtunlágan skálžu.|0|0
+sme/north_sami_female_2/laila-2-dpa-facta-hefte1sa-del1_mono_cut_dnhpnorm_167.wav|sme/north_sami_female_2/pitch/laila-2-dpa-facta-hefte1sa-del1_mono_cut_dnhpnorm_167.pt|Báikkálaš sosiála organiseremis leat nappo muhtun dehálaš dovdomearkkat.|1|0
+sme/north_sami_female_2/laila-2-dpa-misc-acapela-male_del1_mono_cut_dnhpnorm_024.wav|sme/north_sami_female_2/pitch/laila-2-dpa-misc-acapela-male_del1_mono_cut_dnhpnorm_024.pt|Eai ge buot oahpaheaddjit rahpan láse, go sis lei dušše asehis báidi badjelis, ja rivguin asehis čuvla.|1|0
+sme/north_sami_female_2/laila-2-dpa-misc-acapela-male_del1_mono_cut_dnhpnorm_007.wav|sme/north_sami_female_2/pitch/laila-2-dpa-misc-acapela-male_del1_mono_cut_dnhpnorm_007.pt|Maŋŋel go eadni manai, báhcen stoahkanlatnjii čierrut.|1|0
+sme/north_sami_female_3/news_avvir_06-25_bie_porsangggu_gielda_420kv_0001_article_013.wav|sme/north_sami_female_3/pitch/news_avvir_06-25_bie_porsangggu_gielda_420kv_0001_article_013.pt|Dát huksen ludde guottetbáikki.|2|0
+sme/north_sami_female_2/laila-2-dpa-misc-acapela-male_del2_mono_cut_dnhpnorm_106.wav|sme/north_sami_female_2/pitch/laila-2-dpa-misc-acapela-male_del2_mono_cut_dnhpnorm_106.pt|Váhnemat hirpmástuvve ja gáibidedje váhnenčoahkkima.|1|0
+sme/north_sami_female_3/facta_all_part2_150.wav|sme/north_sami_female_3/pitch/facta_all_part2_150.pt|Sámi skuvla galgá bisuhit, ovddidit ja nannet sámi giela, kultuvrra ja servodateallima.|2|0
+sme/north_sami_female_2/laila-3-dpa-ficti-cafe-boddu_mono_cut_dnhpnorm_044.wav|sme/north_sami_female_2/pitch/laila-3-dpa-ficti-cafe-boddu_mono_cut_dnhpnorm_044.pt|Vuolgga lea das ahte buot servodagain lea sosiálalaš kontrolla, mii doalaha miellahtuid vissis systema siskkobealde.|1|0
+sme/north_sami_male/tts56_TRN_015.wav|sme/north_sami_male/pitch/tts56_TRN_015.pt|Mearragoaskin lea stuorámus goaskin.|3|0
+sme/north_sami_female_1/ttsf05_017.wav|sme/north_sami_female_1/pitch/ttsf05_017.pt|Sutnje lei muitaluvvon ahte áhčči lei albmá fálskkár, gii lei lovpen dakkaviđe go gulai ahte moarselágan lei mánáiduvvan.|0|0
+sme/north_sami_male/tts44_TRN_019.wav|sme/north_sami_male/pitch/tts44_TRN_019.pt|Daid mánáid ektui geat mánnávuođas leat vásihan váttisvuođaid ja soahpameahttunvuođaid, berre mánáidgárdi leat diđolaš ovddasvástádusaset dáfus ja láhčit saji buhtadeaddji doaimmaide.|3|0
+sme/north_sami_male/tts32_TRN_031.wav|sme/north_sami_male/pitch/tts32_TRN_031.pt|Dán áiggis dálkkádat molssašuddá hirbmat buolaš ja bivvalis áigodagaid gaskka.|3|0
+sme/north_sami_female_2/laila-2-dpa-misc-acapela-male_del2_mono_cut_dnhpnorm_206.wav|sme/north_sami_female_2/pitch/laila-2-dpa-misc-acapela-male_del2_mono_cut_dnhpnorm_206.pt|Vihttanuppelot guoktelot máná álge sámegielain.|1|0
+sme/north_sami_male/tts36_TRN_012.wav|sme/north_sami_male/pitch/tts36_TRN_012.pt|Mun oidnen dallánaga ahte son lei sámi gánda. Su biktasat ja muohtu dan čájehedje.|3|0
+sme/north_sami_male/tts34_TRN_032.wav|sme/north_sami_male/pitch/tts34_TRN_032.pt|Dadjet ahte goddesáhpán sáhttá nu suhttat ahte luoddana.|3|0
+sme/north_sami_female_2/laila-1-dpa-fraser_mono_cut_dnhpnorm_491.wav|sme/north_sami_female_2/pitch/laila-1-dpa-fraser_mono_cut_dnhpnorm_491.pt|Mávsse velggiidat.|1|0
+sme/north_sami_female_3/sme-fraser-sano-se-saameksi_175.wav|sme/north_sami_female_3/pitch/sme-fraser-sano-se-saameksi_175.pt|Leaikkal. Leaikkastallen. Lean barggus. Lean boađi boađi. Lean boles.|2|0
+sme/north_sami_female_2/laila-3-dpa-facta-hefte1sa-del2_mono_cut_dnhpnorm_060.wav|sme/north_sami_female_2/pitch/laila-3-dpa-facta-hefte1sa-del2_mono_cut_dnhpnorm_060.pt|Ovttasbargu báikkálaš servodagain.|1|0
+sme/north_sami_male/tts12_TRN_022.wav|sme/north_sami_male/pitch/tts12_TRN_022.pt|Bohccuide lei jeagil, ja olbmuide biebmu.|3|0
+sme/north_sami_female_2/laila-3-dpa-dict-eadni-ganjaldii_mono_cut_dnhpnorm_037.wav|sme/north_sami_female_2/pitch/laila-3-dpa-dict-eadni-ganjaldii_mono_cut_dnhpnorm_037.pt|duokŋademiin.|1|0
+sme/north_sami_female_2/laila-3-dpa-dict-eadni-ganjaldii_mono_cut_dnhpnorm_018.wav|sme/north_sami_female_2/pitch/laila-3-dpa-dict-eadni-ganjaldii_mono_cut_dnhpnorm_018.pt|doalvu máidnasiiguin.|1|0
+sme/north_sami_female_2/laila-3-dpa-facta-hefte1sa-del2_mono_cut_dnhpnorm_082.wav|sme/north_sami_female_2/pitch/laila-3-dpa-facta-hefte1sa-del2_mono_cut_dnhpnorm_082.pt|Agi, fágalaš ovdáneami ja máŋggabealatvuođa mielde šaddet skuvlafágat dehálaččat dálááiggi ja boahtteáiggi ipmárdusa dáfus, ja ovttaskas olbmo hástalusaid dáfus, muhto maiddái báikkálaš servodaga dáfus, guovllu dáfus, ja riikkaidgaskasaččat.|1|0
+sme/north_sami_male/tts17_TRN_004.wav|sme/north_sami_male/pitch/tts17_TRN_004.pt|Jus olbmos lea váigadis buozalvas, dahje lea doaibmavádjit eará láhkái iige sáhte bargat, de lea Skandinávalaš riikkain vejolaš ohcat iešguđetlágan doarjagiid.|3|0
+sme/north_sami_female_3/news_yle_1760201_011.wav|sme/north_sami_female_3/pitch/news_yle_1760201_011.pt|Jos dán mátkki johtá nu, ahte ii vuoje Suoma beale luotta bokte, šaddet boazosámit vuodjit joba čuođi kilomehtera beassan dihte guohtuneatnamiidda Ruoŧa bealde.|2|0
+sme/north_sami_male/tts12_TRN_055.wav|sme/north_sami_male/pitch/tts12_TRN_055.pt|Sii eai sáhttán doppe birget.|3|0
+sme/north_sami_female_2/laila-2-dpa-misc-acapela-male_del2_mono_cut_dnhpnorm_223.wav|sme/north_sami_female_2/pitch/laila-2-dpa-misc-acapela-male_del2_mono_cut_dnhpnorm_223.pt|Dán logaimet dien lahkái ahte álggus doaivvuhu.|1|0
+sme/north_sami_female_1/ttsf02_037.wav|sme/north_sami_female_1/pitch/ttsf02_037.pt|Čárbmoaivvi guossavuovdi lea meahcceguovllu váibmosis.|0|0
+sme/north_sami_male/tts53_TRN_028.wav|sme/north_sami_male/pitch/tts53_TRN_028.pt|Muhtumin bohtet vel dáluid sisa ge.|3|0
+sme/north_sami_male/tts24_TRN_047.wav|sme/north_sami_male/pitch/tts24_TRN_047.pt|Ovtta muorragássas ledje dievva rámsolivskkut.|3|0
+sme/north_sami_female_3/news_avvir_12nr049av_12032021_horoskop_article_065.wav|sme/north_sami_female_3/pitch/news_avvir_12nr049av_12032021_horoskop_article_065.pt|Dutnje sáhttet dál leat dieđut, maid gulat eahpeformálalaš dilálašvuođain, ovdamunnin.|2|0
+sme/north_sami_female_3/sme-fraser-sano-se-saameksi_084.wav|sme/north_sami_female_3/pitch/sme-fraser-sano-se-saameksi_084.pt|Diehttelasat!|2|0
+sme/north_sami_female_1/ttsf12_049.wav|sme/north_sami_female_1/pitch/ttsf12_049.pt|Norgga várreviđjjit gulle Kaledoniidaide.|0|0
+sme/north_sami_female_2/laila-1-dpa-news-muohttacalmmit-del1_mono_cut_dnhpnorm_003.wav|sme/north_sami_female_2/pitch/laila-1-dpa-news-muohttacalmmit-del1_mono_cut_dnhpnorm_003.pt|Muohtačalmmit-julggaštus.|1|0
+sme/north_sami_female_1/ttsf17_004.wav|sme/north_sami_female_1/pitch/ttsf17_004.pt|Son lea lodnjái ja čáppat dego duoraldatrássi.|0|0
+sme/north_sami_female_1/ttsf23_062.wav|sme/north_sami_female_1/pitch/ttsf23_062.pt|Ja dan dahke indiánat ain, muhto boazodoalu gal eai lean oahppan.|0|0
+sme/north_sami_female_1/ttsf01_050.wav|sme/north_sami_female_1/pitch/ttsf01_050.pt|Leago dus gieđain hearkkes liiki.|0|0
+sme/north_sami_female_3/news_nrk_50-jagi-leat-olbmot-garvan-inger-marjja---navde-su-sahttit-goddit-ogiid-1-14988623_133.wav|sme/north_sami_female_3/pitch/news_nrk_50-jagi-leat-olbmot-garvan-inger-marjja---navde-su-sahttit-goddit-ogiid-1-14988623_133.pt|Muhtumiid gaskkas min servvodagas eallá ain dat jáhkku ahte soapmásat leat biroguoddit.|2|0
+sme/north_sami_female_3/news_avvir_02-16_rax_loktejit_giddaloddema_dievascoahkkimii_0_article_016.wav|sme/north_sami_female_3/pitch/news_avvir_02-16_rax_loktejit_giddaloddema_dievascoahkkimii_0_article_016.pt|– Mii diehtit ahte loddenortnet, mii dál lea, manná loahpaguvlui ja mii áigut ráhkkanahttit buoret ortnega mii buoret vuhtii váldá sámi árbevirolaš bivddu oktavuođas, dadjá Keskitalo.|2|0
+sme/north_sami_female_1/ttsf21_010.wav|sme/north_sami_female_1/pitch/ttsf21_010.pt|Go buoiddes biepmu borrá jođánit, de dadjet ahte bunžala buoiddi.|0|0
+sme/north_sami_female_1/ttsf16_036.wav|sme/north_sami_female_1/pitch/ttsf16_036.pt|Nisu lohká su gussiid maid vávjet ja váivašuvvet guohpahájain.|0|0
+sme/north_sami_male/tts52_TRN_054.wav|sme/north_sami_male/pitch/tts52_TRN_054.pt|Oksygena ii sáhte oaidnit, muhto dat lea čázis ja áimmus.|3|0
+sme/north_sami_female_3/news_avvir_03-05_smv_ottar_gii_lei_lahppon_0001_article_051.wav|sme/north_sami_female_3/pitch/news_avvir_03-05_smv_ottar_gii_lei_lahppon_0001_article_051.pt|Govven:Silje Malene Varsi.|2|0
+sme/north_sami_female_3/MaijuSaijetsOahppabargu_049.wav|sme/north_sami_female_3/pitch/MaijuSaijetsOahppabargu_049.pt|Lops guokteduhátovccinlot: guhttalogiguhtta.|2|0
+sme/north_sami_female_1/ttsf16_058.wav|sme/north_sami_female_1/pitch/ttsf16_058.pt|Várut dál ságáidat.|0|0
+sme/north_sami_female_2/laila-2-dpa-misc-acapela-male_del2_mono_cut_dnhpnorm_172.wav|sme/north_sami_female_2/pitch/laila-2-dpa-misc-acapela-male_del2_mono_cut_dnhpnorm_172.pt|Norgga deaŧaleamos láhka vuođđuduvvui gávccenuppelotčuođinjealjjenuppelogis.|1|0
+sme/north_sami_male/tts56_TRN_041.wav|sme/north_sami_male/pitch/tts56_TRN_041.pt|Dat náđđu muhtun ráigái dahje loddevissui idjii, muhto iđđesárrat lea juo loddelávddis.|3|0
+sme/north_sami_female_2/laila-1-dpa-fraser_mono_cut_dnhpnorm_684.wav|sme/north_sami_female_2/pitch/laila-1-dpa-fraser_mono_cut_dnhpnorm_684.pt|Vuoi árpmit.|1|0
+sme/north_sami_female_3/ficti_ande_ja_risten_jagi_farus_205.wav|sme/north_sami_female_3/pitch/ficti_ande_ja_risten_jagi_farus_205.pt|Niskki maid sáhtán dus bassat.|2|0
+sme/north_sami_female_1/ttsf22_004.wav|sme/north_sami_female_1/pitch/ttsf22_004.pt|Čállosiin eai leat sánit dáidda bohccuide.|0|0
+sme/north_sami_female_3/news_yle_1697274_016.wav|sme/north_sami_female_3/pitch/news_yle_1697274_016.pt|Sámedikki ságadoalli Tuomas Aslak Juuso mielde Sámedikki dievasčoahkkin ferte muittus atnit earret eará dáid eavttuid.|2|0
+sme/north_sami_male/tts50_TRN_031.wav|sme/north_sami_male/pitch/tts50_TRN_031.pt|Mo galggašin dien fidnet, jurddaša Biret?|3|0
+sme/north_sami_male/tts58_TRN_009.wav|sme/north_sami_male/pitch/tts58_TRN_009.pt|Dan guovtti soađi gaskka muitaluvvo ahte ruŋgolaččat njulgestaga fertejedje ánuhit borramuša mearragátti dáluin.|3|0
+sme/north_sami_female_2/laila-2-dpa-misc-acapela-male_del2_mono_cut_dnhpnorm_071.wav|sme/north_sami_female_2/pitch/laila-2-dpa-misc-acapela-male_del2_mono_cut_dnhpnorm_071.pt|Lága mielde sáhtte sámegielat váhnemiid mánát geat beaivválaččat hupme sámegiela, oažžut oahpu sámegielas go váhnemat gáibidedje|1|0
+sme/north_sami_male/tts36_TRN_017.wav|sme/north_sami_male/pitch/tts36_TRN_017.pt|Áhčis son ii lean goassige oaidnán.|3|0
+sme/north_sami_male/tts06_TRN_014.wav|sme/north_sami_male/pitch/tts06_TRN_014.pt|Muhto jus čoaska dálkkit ledje, de dego bisánedje boahtimis.|3|0
+sme/north_sami_female_1/ttsf12_044.wav|sme/north_sami_female_1/pitch/ttsf12_044.pt|Go stuorát duovdagis leat ollu várrečohkat maŋŋálaga, dat gohčoduvvojit várreviđjin.|0|0
+sme/north_sami_female_3/facta_all_part2_109.wav|sme/north_sami_female_3/pitch/facta_all_part2_109.pt|– Mon liikon borrat murjjiid, Ida dadjá.|2|0
+sme/north_sami_female_3/admin_ALL_pt1_053.wav|sme/north_sami_female_3/pitch/admin_ALL_pt1_053.pt|Ole Henrik Magga lea guhká leamaš stuora ovdagovva sámi giellageavaheami dáfus ja danin lean hirbmat miháš dainna go otne beassat geiget Gollegiella bálkkašumi Ole Henrik Maggai, dadjá Kulturministtar Parisa Liljestrand.|2|0
+sme/north_sami_female_3/avvir_350_sentences_part2_162.wav|sme/north_sami_female_3/pitch/avvir_350_sentences_part2_162.pt|Romssa internationála filbmafestivála (Tiff) oktan Redd Barnain guossohedje gussiide njálgáid ja juhkosa.|2|0
+sme/north_sami_female_3/ficti_cafe_boddu_135.wav|sme/north_sami_female_3/pitch/ficti_cafe_boddu_135.pt|Árvvoštallan sáhttá de šaddat dušše árvvoštalli sátnestoahkamin girjjálašvuođa árvvoštallama haga.|2|0
+sme/north_sami_male/tts40_TRN_008.wav|sme/north_sami_male/pitch/tts40_TRN_008.pt|Ledje eambbo bártnit geat manne nieiddaid maŋis, ja lei vel nu ahte ii galgan álggos nu lodji ge iige leambbat.|3|0
+sme/north_sami_female_1/ttsf23_056.wav|sme/north_sami_female_1/pitch/ttsf23_056.pt|Ja go galge indiánaide boazodoalu oahpahit, de eai lean gáibmáduvvan singuin.|0|0
+sme/north_sami_male/tts12_TRN_057.wav|sme/north_sami_male/pitch/tts12_TRN_057.pt|Bohccot jámadedje, ja čorragiid masttadedje goddečorragiidda.|3|0
+sme/north_sami_female_2/laila-2-dpa-misc-acapela-male_del2_mono_cut_dnhpnorm_017.wav|sme/north_sami_female_2/pitch/laila-2-dpa-misc-acapela-male_del2_mono_cut_dnhpnorm_017.pt|Beaivi ávvuduvvui vuohččan ovccinuppelotčuođiovccilogigolmmás.|1|0
+sme/north_sami_female_1/ttsf03_040.wav|sme/north_sami_female_1/pitch/ttsf03_040.pt|Doalut.|0|0
+sme/north_sami_male/tts59_TRN_005.wav|sme/north_sami_male/pitch/tts59_TRN_005.pt|Go von Westen jámii čiežanuppelohčuođiguoktelogičiežas, de bággii bisma Krogh dahkat mearrádusa ahte buot sámemánát galget oahpahuvvot dáro-/dánskkagillii, nu ahte sii sáhttet geavahit dárogiela girjjiid ja oasálastit ipmilbálvalusas ovttas dážaiguin.|3|0
+sme/north_sami_female_2/laila-3-dpa-admin_ALL_mono_cut_dnhpnorm_050.wav|sme/north_sami_female_2/pitch/laila-3-dpa-admin_ALL_mono_cut_dnhpnorm_050.pt|Sámedikki dutkanstratešiija vuolggasajit leat álgoálbmotperspektiiva, Ruoŧa stáhta koloniseren ja álbmotrievttálaš geahčastat, daningo dát fáktorat váikkuhit sámi dutkamii Ruoŧas ja Sámis muđui nai.|1|0
+sme/north_sami_male/tts56_TRN_039.wav|sme/north_sami_male/pitch/tts56_TRN_039.pt|Fiskesgaccet lea virkkos ja doaimmalaš unna gaccepaš, mii dávjá oidno loddelávddis.|3|0
+sme/north_sami_female_3/news_nrk_ovddadusbellodat-politihkkarat-die_ithit-ie_aset-jienastulohkui-vaikko-eai-ane-ie_aset-sapmela_an-1-1607641_135.wav|sme/north_sami_female_3/pitch/news_nrk_ovddadusbellodat-politihkkarat-die_ithit-ie_aset-jienastulohkui-vaikko-eai-ane-ie_aset-sapmela_an-1-1607641_135.pt|Mot dan váldit ruovttoluotta?|2|0
+sme/north_sami_male/tts15_TRN_036.wav|sme/north_sami_male/pitch/tts15_TRN_036.pt|Beaivváš sámi teáhter lea maid geavahišgoahtán tekstema iežaset bihtáin.|3|0
+sme/north_sami_female_1/ttsf21_040.wav|sme/north_sami_female_1/pitch/ttsf21_040.pt|Nubbi teoriija muitala ahte boazodoallu lea čuožžilan Baikaljávrri guovlluin Nuorta-Ásias, ja gohčoduvvo diffušuvdnateoriijan.|0|0
+sme/north_sami_female_3/science_giellagas_master_valtonen_039.wav|sme/north_sami_female_3/pitch/science_giellagas_master_valtonen_039.pt|Nappo ferte váldit vuhtii juo namaid funkšuvnna ja geavaheddjiid geahččanguovlluid.|2|0
