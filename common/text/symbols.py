@@ -68,6 +68,10 @@ def get_symbols(symbol_set='english_basic'):
         _accented = 'áäæçéêëïńñöøćčžđšŧ'
         _letters = 'AÁÆÅÄBCČDĐEFGHIÏJKLMNŊŃÑOØÖPQRSŠTŦUVWXYZŽaáæåäbcčdđefghiïjklmnŋńñoøöpqrsštŧuvwxyzž'
         symbols = list(_punctuation + _letters)# +  _arpabet
+    elif symbol_set == 'uralic':
+        _punctuation = '!"\'(),-./:;?… '
+        _letters = 'aAáÁbBcCčČdDđeEfFgGhHiIïjJkKlLmMnNŋoOõÕpPqrRsSšŠtTŧuUvVwWxyYüÜzZžåÅäÄæÆöÖøØ'
+        symbols = list(_punctuation + _letters)
     else:
         raise Exception("{} symbol set does not exist".format(symbol_set))
 
@@ -75,7 +79,7 @@ def get_symbols(symbol_set='english_basic'):
 
 
 def get_pad_idx(symbol_set='english_basic'):
-    if symbol_set in {'english_basic', 'english_basic_lowercase', 'smj_expanded', 'sme_expanded', 'sma_expanded', 'all_sami'}:
+    if symbol_set in {'english_basic', 'english_basic_lowercase', 'smj_expanded', 'sme_expanded', 'sma_expanded', 'all_sami', 'uralic'}:
         return 0
     else:
         raise Exception("{} symbol set not used yet".format(symbol_set))

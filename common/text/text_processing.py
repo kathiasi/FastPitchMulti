@@ -128,7 +128,11 @@ class TextProcessing(object):
         text_clean = [self.clean_text(split) if split[0] != '{' else split
                       for split in _arpa_re.findall(text)]
         text_clean = ' '.join(text_clean)
-        text_clean = cleaners.collapse_whitespace(text_clean)
+        if text.startswith(' '):
+            text_clean = ' '+text_clean
+        if text.endswith(' '):
+            text_clean = text_clean + ' '
+        #text_clean = cleaners.collapse_whitespace(text_clean)
         text = text_clean
         """
         text_arpabet = ''
