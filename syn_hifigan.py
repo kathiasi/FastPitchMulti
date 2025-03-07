@@ -20,7 +20,7 @@ from langid.langid import WordLid
 from common import utils, layers
 
 from common.text.text_processing import TextProcessing
-
+from collections import Counter
 
 import os
 #os.environ["CUDA_VISIBLE_DEVICES"]=""
@@ -200,21 +200,28 @@ class Synthesizer:
 
     def speak(self, text, output_file="/tmp/tmp", spkr=0, lang=0, l_weight=1, s_weight=1, pace=0.95, clarity=1, guess_lang=True):
         text = " "+text+" "
+
         if guess_lang:
-            lang = torch.tensor(self.lid.get_lang_array(text)).to(device)
-            print(lang)
+            lang = self.lid.get_lang_array(text)
+            main_lang = Counter(lang).most_common(1)[0][0]
+
+            lang = torch.tensor(lang).to(device)
+            lang_weight = torch.zeros(len(lang))
+            lang_weight[:] = l_weight
+            lang_weight[lang!=main_lang] = 0.5*l_weight
+            
         text = self.tp.encode_text(text)
+
         if guess_lang == False:
             lang = torch.tensor(lang).to(device)
         else:
             if len(text) != len(lang):
                 print("text length not equal to language list length!")
                 lang = lang[0]
-                
-
-        #text = [13] + text
+                l_weight = l_weight[0]
+       
         text = torch.LongTensor([text]).to(device)
-        #probs = surprisals
+       
         for p in [0]:
                   
             with torch.no_grad():
