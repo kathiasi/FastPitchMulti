@@ -16,7 +16,7 @@ from torch.nn.utils.rnn import pad_sequence
 #import style_controller
 from common.utils import load_wav_to_torch
 
-
+from langid.langid import WordLid
 from common import utils, layers
 
 from common.text.text_processing import TextProcessing
@@ -190,6 +190,7 @@ class Synthesizer:
         self.vocoder1, voc_train_setup= self._load_pyt_or_ts_model('HiFi-GAN', self.hifigan_model)
         self.denoiser = Denoiser(self.vocoder1,device=device) #, win_length=self.args.win_length).to(device)
         self.tp = TextProcessing(self.args.symbol_set, self.args.text_cleaners, p_arpabet=0.0)
+        self.lid = WordLid("langid/lang_id_model_q.bin")
         
     def unsharp_mask(self, img, radius=1, amount=1):
         blurred = ndimage.gaussian_filter(img, radius)
@@ -197,10 +198,22 @@ class Synthesizer:
         return sharpened
     
     #
-    def speak(self, text, output_file="/tmp/tmp", lang=0, spkr=0, l_weight=1, s_weight=1, pace=0.95,clarity=1):
+    def speak(self, text, output_file="/tmp/tmp", lang=0, spkr=0, l_weight=1, s_weight=1, pace=0.95,clarity=1, guess_lang=False):
+        
+
+
         text = " " + text + " "
+        if guess_lang:
+            lang = torch.tensor(self.lid.get_lang_array(text)).to(device)
+            
         text = self.tp.encode_text(text)
-        #text = [9]+self.tp.encode_text(text)+[9]
+        if guess_lang == False:
+            lang = torch.tensor(lang).to(device)
+        else:
+            if len(text) != len(lang):
+                print("text length not equal to language list length!")
+                lang = lang[0]
+
         text = torch.LongTensor([text]).to(device)
        
         for p in [0]:
