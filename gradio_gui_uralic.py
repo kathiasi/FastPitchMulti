@@ -1,6 +1,6 @@
 import gradio as gr
-import syn_hifigan as syn
-#import syn_k_univnet_multi as syn
+#import syn_hifigan as syn
+import syn_k_univnet_ural as syn
 import os, tempfile
         
 speakers = {
@@ -17,7 +17,7 @@ speakers = {
     "ti": 10,
     "ta": 11,
     "liivika": 12,
-    "indek": 13,
+    "indrek": 13,
     "kylli": 14,
     "andreas": 15,
     "peeter": 16,
