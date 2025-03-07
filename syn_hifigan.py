@@ -15,7 +15,7 @@ from scipy.io.wavfile import write
 from torch.nn.utils.rnn import pad_sequence
 #import style_controller
 from common.utils import load_wav_to_torch
-
+from langid.langid import WordLid
 
 from common import utils, layers
 
@@ -24,8 +24,8 @@ from common.text.text_processing import TextProcessing
 
 import os
 #os.environ["CUDA_VISIBLE_DEVICES"]=""
-#device = "cuda:0"
-device = "cpu"
+device = "cuda:0"
+#device = "cpu"
 
 vocoder = "hifigan"
 SHARPEN = True
@@ -53,12 +53,10 @@ def parse_args(parser):
     parser.add_argument('--cudnn-benchmark', action='store_true',
                         help='Enable cudnn benchmark mode')
 
-    #parser.add_argument('--fastpitch', type=str, default='output_smj_sander/FastPitch_checkpoint_660.pt',
-                        #help='Full path to the generator checkpoint file (skip to use ground truth mels)') #########
-
-    parser.add_argument('--fastpitch', type=str, default='output_multilang/FastPitch_checkpoint_100.pt',
-                        help='Full path to the generator checkpoint file (skip to use ground truth mels)') #########    
-
+    #parser.add_argument('--fastpitch', type=str, default='output_multilang/FastPitch_checkpoint_200.pt',
+    #                    help='Full path to the generator checkpoint file (skip to use ground truth mels)') #########    
+    parser.add_argument('--fastpitch', type=str, default='output_uralic/FastPitch_checkpoint_200.pt',
+                        help='Full path to the generator checkpoint file (skip to use ground truth mels)') #########
     parser.add_argument('-d', '--denoising-strength', default=0.01, type=float,
                         help='WaveGlow denoising')
     parser.add_argument('-sr', '--sampling-rate', default=22050, type=int,
@@ -83,14 +81,14 @@ def parse_args(parser):
     text_processing.add_argument('--text-cleaners', nargs='*',
                                  default=['basic_cleaners'], type=str,
                                  help='Type of text cleaners for input text')
-    text_processing.add_argument('--symbol-set', type=str, default='all_sami', #################
+    text_processing.add_argument('--symbol-set', type=str, default='uralic', #'all_sami', #################
                                  help='Define symbol set for input text')
 
     cond = parser.add_argument_group('conditioning on additional attributes')
 
-    cond.add_argument('--n-speakers', type=int, default=10,
+    cond.add_argument('--n-speakers', type=int, default=25, #10
                       help='Number of speakers in the model.')
-    cond.add_argument('--n-languages', type=int, default=3,
+    cond.add_argument('--n-languages', type=int, default=5, #3
                       help='Number of languages in the model.')
 
     return parser
@@ -192,7 +190,7 @@ class Synthesizer:
         self.vocoder, voc_train_setup= self._load_pyt_or_ts_model('HiFi-GAN', self.hifigan_model)
         self.denoiser = Denoiser(self.vocoder,device=device) #, win_length=self.args.win_length).to(device)
         self.tp = TextProcessing(self.args.symbol_set, self.args.text_cleaners, p_arpabet=0.0)
-        
+        self.lid = WordLid("langid/lang_id_model_q.bin")
         
    
     def unsharp_mask(self, img, radius=1, amount=1):
@@ -200,10 +198,21 @@ class Synthesizer:
         sharpened = img + amount * ( img - blurred)
         return sharpened
 
-    def speak(self, text, output_file="/tmp/tmp", spkr=0, lang=0, l_weight=1, s_weight=1, pace=0.95, clarity=1):
-
+    def speak(self, text, output_file="/tmp/tmp", spkr=0, lang=0, l_weight=1, s_weight=1, pace=0.95, clarity=1, guess_lang=True):
+        text = " "+text+" "
+        if guess_lang:
+            lang = torch.tensor(self.lid.get_lang_array(text)).to(device)
+            print(lang)
         text = self.tp.encode_text(text)
-        #text = [9]+self.tp.encode_text(text)+[9]
+        if guess_lang == False:
+            lang = torch.tensor(lang).to(device)
+        else:
+            if len(text) != len(lang):
+                print("text length not equal to language list length!")
+                lang = lang[0]
+                
+
+        #text = [13] + text
         text = torch.LongTensor([text]).to(device)
         #probs = surprisals
         for p in [0]:
@@ -217,8 +226,8 @@ class Synthesizer:
                 mel_np = mel.float().data.cpu().numpy()[0]
                 tgt_min = -11
                 tgt_max = 1.5
-                #print(np.min(mel_np), np.max(mel_np))
-                mel_np = self.unsharp_mask(mel_np, radius = 0.5, amount=1)
+                #print(np.min(mel_np) , np.max(mel_np))
+                mel_np = self.unsharp_mask(mel_np, radius = 0.5, amount=0.5)
                 mel_np = self.unsharp_mask(mel_np, radius = 3, amount=.05)
                 # mel_np = self.unsharp_mask(mel_np, radius = 7, amount=0.05)
   
@@ -239,7 +248,7 @@ class Synthesizer:
                 sharpened[i, :]+=(i-40)*0.01 #0.01 ta
             mel[0] = torch.from_numpy(sharpened).float().to(device)
             
-            """
+             """
             with torch.no_grad():
 
                 y_g_hat = self.vocoder(mel).float() ###########
@@ -280,8 +289,8 @@ if __name__ == '__main__':
         
         text = input(">")
         text1 = text.split(" ")
-        syn.speak(text, output_file="/tmp/tmp.wav", spkr=6, lang=1)
-        syn.speak(text, output_file="/tmp/tmp.wav", spkr=7, lang=1)
+        syn.speak(text, output_file="/tmp/tmp.wav", spkr=14, lang=4)
+        syn.speak(text, output_file="/tmp/tmp.wav", spkr=14, lang=4, guess_lang=False)
         continue
         for s in range(1,10):
             for l in range(3): ## 

@@ -361,14 +361,17 @@ class FastPitch(nn.Module):
             spk_emb = self.speaker_emb(speaker).unsqueeze(1)
             print("spkr weight", speaker_weight)
             spk_emb = spk_emb *speaker_weight
-          # ANT: added language 
+        # ANT: added language 
         if self.language_emb is None:
             language_emb = 0
         else:
             print("using language embeddings")
-            language = (torch.ones(inputs.size(0)).long().to(inputs.device)
-                       * language)
-            language_emb = self.language_emb(language).unsqueeze(1)
+            
+            #language[:,inputs.size(1)//2:] = 3
+            print("embedding langs...")
+            language_emb = self.language_emb(language) #.unsqueeze(1)
+            print("done")
+            #print(language_emb.shape)
             language_emb = language_emb * language_weight
         # Input FFT
         enc_out, enc_mask = self.encoder(inputs, conditioning=[spk_emb, language_emb])

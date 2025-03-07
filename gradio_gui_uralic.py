@@ -25,6 +25,7 @@ speakers = {
 }
 
 languages = {
+    "guess": -1,
     "sma": 0,
     "sme": 1,
     "smj": 2,
@@ -39,16 +40,20 @@ tts = syn.Synthesizer()
 
 
 
-def speak(text, language,speaker,l_weight, s_weight, pace, postfilter): #pitch_shift,pitch_std):
+def speak(text, language,speaker, l_weight, s_weight, pace, postfilter): #pitch_shift,pitch_std):
 
 
-
+    
     # text frontend not implemented...
     text = text.replace("...", "…")
     print(speakers[speaker])
+    print(language)
+    use_lid = False
+    if language == "guess":
+        use_lid =True
     audio = tts.speak(text, output_file=f'{tempdir}/tmp', lang=languages[language],
                       spkr=speakers[speaker], l_weight=l_weight, s_weight=s_weight,
-                      pace=pace, clarity=postfilter)
+                      pace=pace, clarity=postfilter, guess_lang=use_lid)
 
     if not public:
         try:
@@ -62,9 +67,8 @@ def speak(text, language,speaker,l_weight, s_weight, pace, postfilter): #pitch_s
 
 controls = []
 controls.append(gr.Textbox(label="text", value="Suohtas duinna deaivvadit."))
-controls.append(gr.Dropdown(list(languages.keys()), label="language", value="North Sámi"))
+controls.append(gr.Dropdown(list(languages.keys()), label="language", value="guess"))
 controls.append(gr.Dropdown(list(speakers.keys()), label="speaker", value="ms"))
-
 controls.append(gr.Slider(minimum=0.5, maximum=1.5, step=0.05, value=1, label="language weight"))
 controls.append(gr.Slider(minimum=0.5, maximum=1.5, step=0.05, value=1, label="speaker weight"))
 
