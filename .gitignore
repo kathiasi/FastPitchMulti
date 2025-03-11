@@ -10,3 +10,15 @@ fastpitch/__pycache__/
 __pychache__/
 fastpitch/__pycache__/model.cpython-39.pyc
 inf_output_multi/
+__pycache__/syn_hifigan.cpython-39.pyc
+__pycache__/syn_k_univnet_multi.cpython-39.pyc
+__pycache__/syn_k_univnet_ural.cpython-39.pyc
+flagged/
+langid/__pycache__/
+output_sme_multispkr/
+output_uralic/
+quant_sents.txt
+common/text/__pycache__/symbols.cpython-39.pyc
+common/text/__pycache__/text_processing.cpython-39.pyc
+fastpitch/__pycache__/model.cpython-39.pyc
+
