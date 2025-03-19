@@ -1,0 +1,305 @@
+fin/ti/ti_misc_iglu_0025_03.wav|fin/ti/ti_misc_iglu_0025_03.pt|Ulkopuolelta iglun päälle voi heittää paljonkin lunta.|13|3
+fin/css/salmelan_heinatalkoot_0366.wav|fin/css/salmelan_heinatalkoot_0366.pt|Se olisi hirmuista! |11|3
+fin/ta/ta_wiki_blogs_0062_04.wav|fin/ta/ta_wiki_blogs_0062_04.pt|jotka käsittelevät WordPressin käyttöä.|14|3
+fin/ti/ti_news_wiki1_0038_01.wav|fin/ti/ti_news_wiki1_0038_01.pt|Ensimmäinen kuva mustasta aukosta julkistettiin|13|3
+fin/ti/ti_fact_copyright_0042_01.wav|fin/ti/ti_fact_copyright_0042_01.pt|Silloin tällöin tapaan ystäviäni työpäivän keskellä.|13|3
+fin/ta/ta_rich_opensub3_0001_01.wav|fin/ta/ta_rich_opensub3_0001_01.pt|Käskin ajaa täyttä vauhtia ja keventää painolastia.|14|3
+fin/ti/ti_blog_books2_0088_02.wav|fin/ti/ti_blog_books2_0088_02.pt|Jos sellaiseksi haluaa, pitäisi ottaa haltuun ohjelmistosuunnittelu, algoritmisuunnittelu,|13|3
+fin/ti/ti_parl_4_0049_06.wav|fin/ti/ti_parl_4_0049_06.pt|länsimaisen maapoliittisen lainsäädännön, joka tekisi mahdolliseksi rakentaa Suomeen hyviä kaupunkeja.|13|3
+fin/ti/ti_fact_copyright_0004_02.wav|fin/ti/ti_fact_copyright_0004_02.pt|Digitaalinen murros oli jo ehtinyt monella tavalla muuttaa taiteen tekemisen ja jakelun tapoja viimeisten vuosikymmenten aikana,|13|3
+fin/orlando/Orlando3_0003.wav|fin/orlando/Orlando3_0003.pt|Kirkko ei voinut paljoakaan auttaa tässä asiassa,|12|3
+fin/ta/ta_misc_common_0010_03.wav|fin/ta/ta_misc_common_0010_03.pt|Onko niin?|14|3
+fin/ta/ta_fact_humanitas_0009_01.wav|fin/ta/ta_fact_humanitas_0009_01.pt|ESIPUHE|14|3
+fin/ta/ta_wiki_geography_0053_01.wav|fin/ta/ta_wiki_geography_0053_01.pt|Ilmasto ja kasvillisuus|14|3
+fin/ta/ta_rich_perso_0108_01.wav|fin/ta/ta_rich_perso_0108_01.pt|Lenkki käy grilliin ja kiukaalle, soosiin ja soppaan.|14|3
+fin/ti/ti_rich_perso_0232_01.wav|fin/ti/ti_rich_perso_0232_01.pt|Fäärin kieltä osaavat harvat.|13|3
+fin/css/salmelan_heinatalkoot_0511.wav|fin/css/salmelan_heinatalkoot_0511.pt|Ei ollut sade meistä kaukana, yhden kilometrin päässä, virkkoi Salmelan isäntä. -Eikös Takamaan niityllä satanut?|11|3
+fin/ti/ti_blog_books_0054_01.wav|fin/ti/ti_blog_books_0054_01.pt|Ukilleen Sirpa Kähkönen oli ensimmäinen lapsi, jota tämä saattoi seurata vauvasta asti;|13|3
+fin/ta/ta_prose_finne_0075_03.wav|fin/ta/ta_prose_finne_0075_03.pt|Pulla alkoi tietysti heti haukkua pronssileijonaa, joka oli patsaan juurella.|14|3
+fin/ti/ti_prose_doyle_0060_01.wav|fin/ti/ti_prose_doyle_0060_01.pt|"Ei missään nimessä.|13|3
+fin/ti/ti_prose_doyle_0060_02.wav|fin/ti/ti_prose_doyle_0060_02.pt|Meillä on pätevät syyt uskoa, että hän on jo huomannut menetelleensä ajattelemattomasti.|13|3
+fin/ti/ti_prose_doyle_0060_03.wav|fin/ti/ti_prose_doyle_0060_03.pt|Jos kirje joutuisi yleisön tietoon, siitä olisi pahemmat seuraukset sekä hänelle että hänen valtakunnalleen kuin meille."|13|3
+fin/ta/ta_caps_hakanen_0059_01.wav|fin/ta/ta_caps_hakanen_0059_01.pt|Ni täähän ei ollut ollenkaan niinku se, mitä oli tapahtumas tai mitä oli tavoteltu, ja lopulta se pääty siihen, et esmes Helsigissä oli tota…|14|3
+fin/ti/ti_rich_opensub2_0111_01.wav|fin/ti/ti_rich_opensub2_0111_01.pt|Ei hassumpi peli.|13|3
+fin/ta/ta_forum_wiki2_0008_01.wav|fin/ta/ta_forum_wiki2_0008_01.pt|Täyskielto on.|14|3
+fin/ti/ti_caps_some_0014_01.wav|fin/ti/ti_caps_some_0014_01.pt|Ja tota…|13|3
+fin/ta/ta_prose_gogol_0005_03.wav|fin/ta/ta_prose_gogol_0005_03.pt|sekä kaikki täydelliset Basmatskinit olivat kävelleet saappaissa vaihtaen vain kolmisen kertaa vuodessa puolianturoita.|14|3
+fin/ti/ti_misc_common_0006_29.wav|fin/ti/ti_misc_common_0006_29.pt|No tän kerran.|13|3
+fin/ta/ta_caps_hakanen_0062_02.wav|fin/ta/ta_caps_hakanen_0062_02.pt|viestinnän tärkeys. Että, että kun on projekti, jol on joku niinku tavoite,|14|3
+fin/ta/ta_rich_news_0199_01.wav|fin/ta/ta_rich_news_0199_01.pt|Angela Merkel ja Valdimir Putin tapasivat Sotshissa toukokuussa.|14|3
+fin/ti/ti_wiki_blogs_0059_02.wav|fin/ti/ti_wiki_blogs_0059_02.pt|Haluatko tietää enemmän vai perusasioita?|13|3
+fin/css/salmelan_heinatalkoot_0439.wav|fin/css/salmelan_heinatalkoot_0439.pt|Hilma Hietanen ujosteli ensin vähäisen, mutta sitten sanoi: -Näinhän se runo muistaakseni oli:|11|3
+fin/ti/ti_prose_krohn_0043_01.wav|fin/ti/ti_prose_krohn_0043_01.pt|MERENKULKIJA SINDBAD|13|3
+fin/ta/ta_parl_3_0023_03.wav|fin/ta/ta_parl_3_0023_03.pt|Jos me luomme liian suljetut kansalliset audiovisuaaliset markkinat, se muuri sulkee samalla muun maailman markkinat suomalaisilta yrityksiltä.|14|3
+fin/ti/ti_misc_common_0017_05.wav|fin/ti/ti_misc_common_0017_05.pt|Ihan mahtavaa!|13|3
+fin/ta/ta_rich_mv_0498_01.wav|fin/ta/ta_rich_mv_0498_01.pt|Vanhojen rakennusten lisäksi saastevaurioita on myös uusissa taloissa.|14|3
+fin/css/salmelan_heinatalkoot_0904.wav|fin/css/salmelan_heinatalkoot_0904.pt|Tietysti joutui pantiksi koko joukko pieniä kappaleita: piippuja, tupakkakukkaroita, nenäliinoja,|11|3
+fin/ta/ta_blog_tech_0024_05.wav|fin/ta/ta_blog_tech_0024_05.pt|Ja niillä tehdyt aurat eivät minun tabletillä näy.|14|3
+fin/ti/ti_fact_media_0074_02.wav|fin/ti/ti_fact_media_0074_02.pt|että sidosryhmien huomio kiinnittyy juuri sinne, minne organisaatio itse sen ohjaa.|13|3
+fin/ti/ti_blog_books_0035_07.wav|fin/ti/ti_blog_books_0035_07.pt|heidän resilienssinsä on kasvanut.|13|3
+fin/ti/ti_wiki_history_0006_04.wav|fin/ti/ti_wiki_history_0006_04.pt|Saavuttaakseen tällaisen kiistattoman aseman, johtajat kommunistisissa ja fasistisissa järjestelmissä ovat usein pyrkineet vakuuttamaan,|13|3
+fin/ti/ti_misc_cooking_0151_01.wav|fin/ti/ti_misc_cooking_0151_01.pt|seitsemänkymmentä viisi grammaa voita,|13|3
+fin/ta/ta_caps_hakanen_0087_01.wav|fin/ta/ta_caps_hakanen_0087_01.pt|ni olihan se niinku aika masentavaa, öö…|14|3
+fin/ti/ti_blog_books_0030_03.wav|fin/ti/ti_blog_books_0030_03.pt|Voiko koronapandemia muuttaa lukukokemusta?|13|3
+fin/ti/ti_prose_tales3_0037_07.wav|fin/ti/ti_prose_tales3_0037_07.pt|Tosin minun täytyy alkaa alhaalta päin, niin, voinhan sanoa sen aivan suoraan:|13|3
+fin/ta/ta_rich_opensub3_0064_01.wav|fin/ta/ta_rich_opensub3_0064_01.pt|Onko kellossa muita toimintoja?|14|3
+fin/ti/ti_rich_opensub_0087_01.wav|fin/ti/ti_rich_opensub_0087_01.pt|Tiedäthän, häämatkarahasto, lisäsiipi lastenhuoneelle…|13|3
+fin/ti/ti_caps_games_0103_02.wav|fin/ti/ti_caps_games_0103_02.pt|mitä ei o viel julkaistu, ni mitä me on kirjoitettu, ku lapset ja nuoret pelikulttuurien toimijoina.|13|3
+fin/ti/ti_prose_kallas_0042_01.wav|fin/ti/ti_prose_kallas_0042_01.pt|Ennenkuin ennätin estää, hän ehti jo tarttua käteeni, jota hän puristi lujasti ja hellittämättä,|13|3
+fin/ta/ta_blog_tech_0004_06.wav|fin/ta/ta_blog_tech_0004_06.pt|Tampereen kaupunki on ladannut kovasti odotuksia Windows kahdeksan -tabletteihin, koska vain ne on mahdollista saada osaksi kaupungin muuta tietokone-ekosysteemiä.|14|3
+fin/ta/ta_prose_krohn_0039_02.wav|fin/ta/ta_prose_krohn_0039_02.pt|Sitten hän kantoi säkit taloonsa ja näytti niitä vaimollensa.|14|3
+fin/ta/ta_fact_media_0026_01.wav|fin/ta/ta_fact_media_0026_01.pt|Organisaation olemassaolon oikeutus pohjautuu sen kykyyn vastata yleiseen moraaliseen kritiikkiin ja yhteiskunnalliseen keskusteluun.|14|3
+fin/ti/ti_rich_opensub_0042_01.wav|fin/ti/ti_rich_opensub_0042_01.pt|Kuningatar syö hevosen.|13|3
+smj/lule_sami_female_1/02-bi-dpa-13-giella-fabmo-del1-1-cut-dnhpnorm_VAD_457.wav|smj/lule_sami_female_1/pitch/02-bi-dpa-13-giella-fabmo-del1-1-cut-dnhpnorm_VAD_457.pt|Máná viehki ålgus sisi ja ållessjattuga juhki káfav ja bårri gahpagáhkov.|10|2
+smj/lule_sami_female_1/02-bi-dpa-13-muhtem_same-cut-dnhpnorm_VAD_083.wav|smj/lule_sami_female_1/pitch/02-bi-dpa-13-muhtem_same-cut-dnhpnorm_VAD_083.pt|Jåhttelåtte båhti, duola degu tsagán ietjas ruoppsis juolgij. Guovtes ja guovtes ma juo åhtsåba sajev fiervvágátten gånnå månnit ja lállit.|10|2
+smj/lule_sami_female_1/02-bi-dpa-16-iellembiras-del2-cut-dnhpnorm_VAD_089.wav|smj/lule_sami_female_1/pitch/02-bi-dpa-16-iellembiras-del2-cut-dnhpnorm_VAD_089.pt|Biebbmo: Biebbmoábnnasa, gárvvim ja vuorkkim.|10|2
+smj/lule_sami_male_1/uit-sander-2022-04-20-iellembiras_part1_mcxgn_Sent2_167.wav|smj/lule_sami_male_1/pitch/uit-sander-2022-04-20-iellembiras_part1_mcxgn_Sent2_167.pt|fábmudagájn.|8|2
+smj/lule_sami_female_1/02-bi-dpa-01-samasta-cut1-dnhpnorm_Sent_053.wav|smj/lule_sami_female_1/pitch/02-bi-dpa-01-samasta-cut1-dnhpnorm_Sent_053.pt|Sunná: Le gus akta mánájs biejvijt sijdan?|10|2
+smj/lule_sami_male_2/mikal_urheim_MSA_Part_7_cn-4_023.wav|smj/lule_sami_male_2/pitch/mikal_urheim_MSA_Part_7_cn-4_023.pt|Njuovvat vuostak nav vaj oattjo siejbbedávtev råhttit ålgus siejbes.|7|2
+smj/lule_sami_male_2/mikal_urheim_MSA_Part_7_cn-18_044.wav|smj/lule_sami_male_2/pitch/mikal_urheim_MSA_Part_7_cn-18_044.pt|vat dav hårev håjggåt vuolebuj vaj sjaddá nubbe hårre.|7|2
+smj/lule_sami_female_1/02-bi-dpa-13-samegiella-julev1-cut-dnhpnorm_VAD_084.wav|smj/lule_sami_female_1/pitch/02-bi-dpa-13-samegiella-julev1-cut-dnhpnorm_VAD_084.pt|Jus giella galggá vuohkkasit adnet, de viertti mielastuvvat bágojda. Dåbddåt dajt ájádusájt majt da båkti ja oahpásmuvvat giela vájkodimnævojda.|10|2
+smj/lule_sami_male_2/mikal_urheim_MSA_Part_4_cn-2_001.wav|smj/lule_sami_male_2/pitch/mikal_urheim_MSA_Part_4_cn-2_001.pt|Ufuohttá Lufoahtta ja Divtasvuodna.|7|2
+smj/lule_sami_female_1/02-bi-dpa-01-ord-no-alphabet-cut1-dnhpnorm_Sent_373.wav|smj/lule_sami_female_1/pitch/02-bi-dpa-01-ord-no-alphabet-cut1-dnhpnorm_Sent_373.pt|Rijkka.|10|2
+smj/lule_sami_male_1/uit-sander-2022-04-20-educational-giella-fabmo-2_mcxgn_Sent2_152.wav|smj/lule_sami_male_1/pitch/uit-sander-2022-04-20-educational-giella-fabmo-2_mcxgn_Sent2_152.pt|Na mån dat lidjiv valla iv des de ietjá bále dav dagá.|8|2
+smj/lule_sami_female_1/02-bi-dpa-01-fraser_2-cut-dnhpnorm_VAD_361.wav|smj/lule_sami_female_1/pitch/02-bi-dpa-01-fraser_2-cut-dnhpnorm_VAD_361.pt|Ándagis gå lav nav nuolle.|10|2
+smj/lule_sami_male_2/mikal_urheim_MSA_Part_5_cn-8_021.wav|smj/lule_sami_male_2/pitch/mikal_urheim_MSA_Part_5_cn-8_021.pt|Danna le huj ållo giettot jiekkij birra ja gájkka.|7|2
+smj/lule_sami_male_2/mikal_urheim_MSA_Part_7_cn-2_045.wav|smj/lule_sami_male_2/pitch/mikal_urheim_MSA_Part_7_cn-2_045.pt|Rievsagav oasstin boarkála.|7|2
+smj/lule_sami_male_1/uit-sander-2022-04-20-sjokolada_mcxgn_Sent2_089.wav|smj/lule_sami_male_1/pitch/uit-sander-2022-04-20-sjokolada_mcxgn_Sent2_089.pt|Ja de gulliv gå soames javlaj.|8|2
+smj/lule_sami_male_1/uit-sander-2022-04-19-01_ord_del1_mcxgn_Sent2_075.wav|smj/lule_sami_male_1/pitch/uit-sander-2022-04-19-01_ord_del1_mcxgn_Sent2_075.pt|Biejve|8|2
+smj/lule_sami_male_1/uit-sander-2022-04-21-muhtin-same_mcxgn_Sent2_214.wav|smj/lule_sami_male_1/pitch/uit-sander-2022-04-21-muhtin-same_mcxgn_Sent2_214.pt|Ja jus dal.|8|2
+smj/lule_sami_male_1/uit-sander-2022-04-20-educational-giella-fabmo-1_del3_mcxgn_Sent2_242.wav|smj/lule_sami_male_1/pitch/uit-sander-2022-04-20-educational-giella-fabmo-1_del3_mcxgn_Sent2_242.pt|Bávva lij Oarjjevuonav sisi mannamin Tjaktja lij ja viertto.|8|2
+smj/lule_sami_male_1/uit-sander-2022-04-21-tjaktjalasta_mcxgn_Sent2_470.wav|smj/lule_sami_male_1/pitch/uit-sander-2022-04-21-tjaktjalasta_mcxgn_Sent2_470.pt|Ieddneska aj sehkan bárnij ságajda.|8|2
+smj/lule_sami_female_1/02-bi-dpa-13-giella-fabmo-del1-2-cut-dnhpnorm_VAD_424.wav|smj/lule_sami_female_1/pitch/02-bi-dpa-13-giella-fabmo-del1-2-cut-dnhpnorm_VAD_424.pt|Smájlle smájlle smájlle le gå jågå jågåv smáddjim.|10|2
+smj/lule_sami_male_1/uit-sander-2022-04-20-educational-giella-fabmo-1_del2_mcxgn_Sent2_069.wav|smj/lule_sami_male_1/pitch/uit-sander-2022-04-20-educational-giella-fabmo-1_del2_mcxgn_Sent2_069.pt|Juohkka bokstávan la mierredum sadje alfabiehtan.|8|2
+smj/lule_sami_male_2/mikal_urheim_MSA_Part_7_cn-3_000.wav|smj/lule_sami_male_2/pitch/mikal_urheim_MSA_Part_7_cn-3_000.pt|Rievsagav ietjá láhkáj bivddet daj dålusj ájgij.|7|2
+smj/lule_sami_female_1/02-bi-dpa-13-helsinki-javllamus-cut-dnhpnorm_VAD_055.wav|smj/lule_sami_female_1/pitch/02-bi-dpa-13-helsinki-javllamus-cut-dnhpnorm_VAD_055.pt|Dån oasálastá poasstima baktu vid videov jali sárnnusav twitterin jali facebookan. Mij vuoset ahte dån ja duv barggoguojme dár doarjjobihtit dutkamgassk gasskostimev moatte giellaj.|10|2
+smj/lule_sami_male_2/mikal_urheim_MSA_Part_5_cn-11_013.wav|smj/lule_sami_male_2/pitch/mikal_urheim_MSA_Part_5_cn-11_013.pt|Bilkájt muorajda gáhtsot gåjkåtjit ja de viedtjat dajt gå nágin biejve li mannam.|7|2
+smj/lule_sami_male_2/mikal_urheim_MSA_Part_5_cn-7_023.wav|smj/lule_sami_male_2/pitch/mikal_urheim_MSA_Part_5_cn-7_023.pt|Ja guolle lij dal juohkka jávrren ja jågån.|7|2
+smj/lule_sami_male_1/uit-sander-2022-04-21-missing_stammekonsonant_mcxgn_Sent2_066.wav|smj/lule_sami_male_1/pitch/uit-sander-2022-04-21-missing_stammekonsonant_mcxgn_Sent2_066.pt|ja basádum svijnne stienntjen jållert.|8|2
+smj/lule_sami_female_1/02-bi-dpa-01-fraser_2-cut-dnhpnorm_VAD_217.wav|smj/lule_sami_female_1/pitch/02-bi-dpa-01-fraser_2-cut-dnhpnorm_VAD_217.pt|Mij biejvijt la idet?|10|2
+smj/lule_sami_male_2/mikal_urheim_MSA_Part_2_cn-6_023.wav|smj/lule_sami_male_2/pitch/mikal_urheim_MSA_Part_2_cn-6_023.pt|mij galgaj oasstet sildájt Viehka stuorra vanntsa.|7|2
+smj/lule_sami_female_1/02-bi-dpa-15-del-cut-dnhpnorm_VAD_441.wav|smj/lule_sami_female_1/pitch/02-bi-dpa-15-del-cut-dnhpnorm_VAD_441.pt|Gålmmå: bágon galggi liehket oalle julevsáme jiena ja bokstávva m ma li mijá alfabehtan.|10|2
+smj/lule_sami_male_1/uit-sander-2022-04-20-ga-skirri_mcxgn_Sent2_122.wav|smj/lule_sami_male_1/pitch/uit-sander-2022-04-20-ga-skirri_mcxgn_Sent2_122.pt|Juohkka biejve.|8|2
+smj/lule_sami_female_1/02-bi-dpa-01-fraser-cut1-dnhpnorm_Sent_083.wav|smj/lule_sami_female_1/pitch/02-bi-dpa-01-fraser-cut1-dnhpnorm_Sent_083.pt|Kloahkka l gávtsen.|10|2
+smj/lule_sami_female_1/02-bi-dpa-07-sjokolada-cut-dnhpnorm_VAD_013.wav|smj/lule_sami_female_1/pitch/02-bi-dpa-07-sjokolada-cut-dnhpnorm_VAD_013.pt|Ná oastáv mån de dav.|10|2
+smj/lule_sami_male_1/uit-sander-2022-04-19-01_ord_del2_mcxgn_Sent2_040.wav|smj/lule_sami_male_1/pitch/uit-sander-2022-04-19-01_ord_del2_mcxgn_Sent2_040.pt|Márffe.|8|2
+smj/lule_sami_male_1/uit-sander-2022-04-21-muhtin-same_mcxgn_Sent2_271.wav|smj/lule_sami_male_1/pitch/uit-sander-2022-04-21-muhtin-same_mcxgn_Sent2_271.pt|Gåntsi ájvvo lij dagádum oabme lissjá njunnjegietjes.|8|2
+smj/lule_sami_female_1/02-bi-dpa-01-samasta-cut1-dnhpnorm_Sent_061.wav|smj/lule_sami_female_1/pitch/02-bi-dpa-01-samasta-cut1-dnhpnorm_Sent_061.pt|Sunná: Diedá gus åhtsåmájgev?|10|2
+smj/lule_sami_female_2/2647_0005_007_015.wav|smj/lule_sami_female_2/pitch/2647_0005_007_015.pt|De mån gähttjalav snivvit gámá sinna vaj danna oadedahttá.|9|2
+smj/lule_sami_male_1/uit-sander-2022-04-19-01_ord_del2_mcxgn_Sent2_248.wav|smj/lule_sami_male_1/pitch/uit-sander-2022-04-19-01_ord_del2_mcxgn_Sent2_248.pt|Ájgen.|8|2
+smj/lule_sami_male_1/uit-sander-2022-04-19-01_ord_del2_mcxgn_Sent2_258.wav|smj/lule_sami_male_1/pitch/uit-sander-2022-04-19-01_ord_del2_mcxgn_Sent2_258.pt|Álggo.|8|2
+smj/lule_sami_male_1/uit-sander-2022-04-19-03_navn_mcxgn_Sent2_528.wav|smj/lule_sami_male_1/pitch/uit-sander-2022-04-19-03_navn_mcxgn_Sent2_528.pt|Máhttu.|8|2
+smj/lule_sami_female_2/2647_0005_002_017.wav|smj/lule_sami_female_2/pitch/2647_0005_002_017.pt|Vuojnnet lábllá ietjas dätto vuolen.|9|2
+smj/lule_sami_male_1/uit-sander-2022-04-20-educational-giella-fabmo-1_del3_mcxgn_Sent2_274.wav|smj/lule_sami_male_1/pitch/uit-sander-2022-04-20-educational-giella-fabmo-1_del3_mcxgn_Sent2_274.pt|Danna de allasis loabedij ij goassak galga vanntsaj lávkkit gårvvomjáhka dagi.|8|2
+smj/lule_sami_male_1/uit-sander-2022-04-19-12_aejvvalibme_gaanaagisasjn_mcxgn_Sent2_014.wav|smj/lule_sami_male_1/pitch/uit-sander-2022-04-19-12_aejvvalibme_gaanaagisasjn_mcxgn_Sent2_014.pt|Miján ham ælla nuoges sámegielak dåktåra ja varresvuodabargge javllá Vars.|8|2
+smj/lule_sami_female_1/02-bi-dpa-01-missing_stammekonsonant_2-cut-dnhpnorm_VAD_322.wav|smj/lule_sami_female_1/pitch/02-bi-dpa-01-missing_stammekonsonant_2-cut-dnhpnorm_VAD_322.pt|Válde buojkulvissan varraåtsådimijn tsågev åtsåda ekg ajn ja hávijt gurppiji.|10|2
+smj/lule_sami_female_1/02-bi-dpa-07-reindrift-cut-dnhpnorm_VAD_151.wav|smj/lule_sami_female_1/pitch/02-bi-dpa-07-reindrift-cut-dnhpnorm_VAD_151.pt|Dållåmuorajt ja verkajt válldet ma ællosujttuj diehti dárbahi adnet, b) rustigijt jali viesojt tsieggit majt ællosujttuj dárbahi, ja c) bivddet ja guollit.|10|2
+smj/lule_sami_male_1/uit-sander-2022-04-20-educational-giella-fabmo-2_mcxgn_Sent2_130.wav|smj/lule_sami_male_1/pitch/uit-sander-2022-04-20-educational-giella-fabmo-2_mcxgn_Sent2_130.pt|Skåvllålanján lij ruokto.|8|2
+smj/lule_sami_male_2/mikal_urheim_MSA_Part_7_cn-7_041.wav|smj/lule_sami_male_2/pitch/mikal_urheim_MSA_Part_7_cn-7_041.pt|Akta dájs nuorra berunbállijs ij åvvå vajálduttám dav biejvev nav guhkev gå viesoj ja javlaj.|7|2
+smj/lule_sami_male_2/mikal_urheim_MSA_Part_7_cn-14_043.wav|smj/lule_sami_male_2/pitch/mikal_urheim_MSA_Part_7_cn-14_043.pt|De ij nav ruvva nælggám dan biejve.|7|2
+smj/lule_sami_male_1/uit-sander-2022-04-19-03_navn_mcxgn_Sent2_120.wav|smj/lule_sami_male_1/pitch/uit-sander-2022-04-19-03_navn_mcxgn_Sent2_120.pt|Laila.|8|2
+smj/lule_sami_male_1/uit-sander-2022-04-21-subttsasa_nordlands_mcxgn_Sent2_183.wav|smj/lule_sami_male_1/pitch/uit-sander-2022-04-21-subttsasa_nordlands_mcxgn_Sent2_183.pt|Luosseviejega vásstedijga riebij ja Hásskovis.|8|2
+eng/M6670/internationalshortstories1_03_patten_0036.wav|eng/M6670/internationalshortstories1_03_patten_0036.pt|full of the importance and hurry of his mission.|21|5
+eng/M6097/bambatse_24_haggard_0385.wav|eng/M6097/bambatse_24_haggard_0385.pt|closing the trap beneath,|22|5
+eng/M6670/mysteriesoflondon2_090_reynolds_0539.wav|eng/M6670/mysteriesoflondon2_090_reynolds_0539.pt|but I will have nothing to do with the business.|21|5
+eng/F92/secretagent_05_conrad_0704.wav|eng/F92/secretagent_05_conrad_0704.pt|Then he said perfunctorily:|23|5
+eng/F9136/secondsight_07_leverson_0086.wav|eng/F9136/secondsight_07_leverson_0086.pt|so heavily that Bruce was nearly shot up into the air.|24|5
+eng/M6097/roots_55_morris_0275.wav|eng/M6097/roots_55_morris_0275.pt|We shall tell of the gift in the battle-joy given,|22|5
+eng/F92/auntcretesemancipation_02_hill_0359.wav|eng/F92/auntcretesemancipation_02_hill_0359.pt|He would give her the best time he knew how,|23|5
+eng/M6670/goldengemsoflife_002_allen_0074.wav|eng/M6670/goldengemsoflife_002_allen_0074.pt|and in the kiss of the balmy breeze,|21|5
+eng/F92/secretagent_09_conrad_0798.wav|eng/F92/secretagent_09_conrad_0798.pt|he said.|23|5
+eng/F9136/vanityfair_20_thackeray_0122.wav|eng/F9136/vanityfair_20_thackeray_0122.pt|as people,|24|5
+eng/M6097/nada_lily_30_haggard_0061.wav|eng/M6097/nada_lily_30_haggard_0061.pt|when they are fair are fair with the flesh alone.|22|5
+eng/M6670/wonderbook_03_hawthorne_0277.wav|eng/M6670/wonderbook_03_hawthorne_0277.pt|He descended towards it,|21|5
+eng/F92/scarletletter_23_hawthorne_0379.wav|eng/F92/scarletletter_23_hawthorne_0379.pt|But now thou wilt? Pearl kissed his lips.|23|5
+eng/M6097/bambatse_23_haggard_0314.wav|eng/M6097/bambatse_23_haggard_0314.pt|for what chance should I have against so brave a warrior?|22|5
+eng/M6097/roots_53_morris_0024.wav|eng/M6097/roots_53_morris_0024.pt|so that she was a fair sight to see;|22|5
+eng/M6097/hartmann_05_fawcett_0190.wav|eng/M6097/hartmann_05_fawcett_0190.pt|Some one brought me a chair, but I was too abstracted to thank him.|22|5
+eng/F9136/vanityfair_04_thackeray_0442.wav|eng/F9136/vanityfair_04_thackeray_0442.pt|The more the better, said Miss Amelia;|24|5
+eng/M6670/internationalshortstories1_02_patten_0090.wav|eng/M6670/internationalshortstories1_02_patten_0090.pt|and begin to grow imaginative -|21|5
+eng/M6670/waysofwoodfolk_09_long_0065.wav|eng/M6670/waysofwoodfolk_09_long_0065.pt|The owl meanwhile sits blinking and staring,|21|5
+eng/F9136/vanityfair_03_thackeray_0039.wav|eng/F9136/vanityfair_03_thackeray_0039.pt|I have embroidered for you a very beautiful pair of braces.|24|5
+eng/M6097/nada_lily_33_haggard_0418.wav|eng/M6097/nada_lily_33_haggard_0418.pt|rolling together on the ground,|22|5
+eng/M6670/astounding_stories06_14_cummings_0506.wav|eng/M6670/astounding_stories06_14_cummings_0506.pt|the beasts roaring,|21|5
+eng/F92/scarletletter_19_hawthorne_0088.wav|eng/F92/scarletletter_19_hawthorne_0088.pt|It was strange,|23|5
+eng/F9136/vanityfair_15_thackeray_0223.wav|eng/F9136/vanityfair_15_thackeray_0223.pt|and the refusal,|24|5
+eng/M6670/astoundingstories07_14_0376.wav|eng/M6670/astoundingstories07_14_0376.pt|She relinquished me and turned her attention to the children.|21|5
+eng/F9136/vanityfair_53_thackeray_0033.wav|eng/F9136/vanityfair_53_thackeray_0033.pt|You'll find your old bed,|24|5
+eng/M6670/shadesofwilderness_11_altsheler_0231.wav|eng/M6670/shadesofwilderness_11_altsheler_0231.pt|while all the billions wait,|21|5
+eng/F9136/secondsight_28_leverson_0118.wav|eng/F9136/secondsight_28_leverson_0118.pt|as he explained frankly enough (giving all details),|24|5
+eng/F92/secretagent_04_conrad_0259.wav|eng/F92/secretagent_04_conrad_0259.pt|There are individuals of character amongst that lot too,|23|5
+eng/F92/wonderfuladventures_17_seacole_0084.wav|eng/F92/wonderfuladventures_17_seacole_0084.pt|over which they drove,|23|5
+eng/M6670/shadesofwilderness_14_altsheler_0248.wav|eng/M6670/shadesofwilderness_14_altsheler_0248.pt|I was one of those who sheltered him from the shells,|21|5
+eng/F92/scarletletter_20_hawthorne_0439.wav|eng/F92/scarletletter_20_hawthorne_0439.pt|A bitter kind of knowledge that!|23|5
+eng/M6670/internationalshortstories1_04_patten_0462.wav|eng/M6670/internationalshortstories1_04_patten_0462.pt|until you get over this.|21|5
+eng/M6097/presentpictureofnsw_02_mann_0175.wav|eng/M6097/presentpictureofnsw_02_mann_0175.pt|not to be riotous or troublesome;|22|5
+eng/M6097/hartmann_04_fawcett_0049.wav|eng/M6097/hartmann_04_fawcett_0049.pt|the uproar led to a fight,|22|5
+eng/F9136/vanityfair_41_thackeray_0245.wav|eng/F9136/vanityfair_41_thackeray_0245.pt|by which means she hoped that her body might escape medication.|24|5
+eng/M6097/jaufry_04_lafon_0073.wav|eng/M6097/jaufry_04_lafon_0073.pt|for he still thought to take the beast alive;|22|5
+eng/F9136/vanityfair_17_thackeray_0045.wav|eng/F9136/vanityfair_17_thackeray_0045.pt|the mourners cry at his club.|24|5
+eng/M6097/nada_lily_24_haggard_0461.wav|eng/M6097/nada_lily_24_haggard_0461.pt|and the sea is their home;|22|5
+eng/M6097/shortstories_01_gaskell_0099.wav|eng/M6097/shortstories_01_gaskell_0099.pt|But Day and Waking have their dreams,|22|5
+eng/M6097/roots_45_morris_0207.wav|eng/M6097/roots_45_morris_0207.pt|song came into his mouth,|22|5
+eng/F92/beyondgoodandevil_02_nietzsche_0584.wav|eng/F92/beyondgoodandevil_02_nietzsche_0584.pt|is not just the power of will,|23|5
+eng/F9136/vanityfair_61_thackeray_0525.wav|eng/F9136/vanityfair_61_thackeray_0525.pt|was anxious that she should have change and amusement after her troubles and trials,|24|5
+eng/M6097/nada_lily_20_haggard_0403.wav|eng/M6097/nada_lily_20_haggard_0403.pt|Then I rose up,|22|5
+eng/F9136/vanityfair_25_thackeray_0750.wav|eng/F9136/vanityfair_25_thackeray_0750.pt|was a satisfaction,|24|5
+eng/F92/secretagent_09_conrad_0831.wav|eng/F92/secretagent_09_conrad_0831.pt|It was in perfect order.|23|5
+eng/M6670/religiousstudies_34_stowe_0007.wav|eng/M6670/religiousstudies_34_stowe_0007.pt|and turning it about on his great fist.|21|5
+eng/M6097/swag_01_tompkins_0489.wav|eng/M6097/swag_01_tompkins_0489.pt|To observe the zest with which the girls enter into the more or less commonplace incidents by the way-epoch-making events to them-is to be rejuvenated.|22|5
+eng/F92/scarletletter_06_hawthorne_0220.wav|eng/F92/scarletletter_06_hawthorne_0220.pt|holding a forefinger with her whole grasp,|23|5
+eng/M6097/roots_06_morris_0244.wav|eng/M6097/roots_06_morris_0244.pt|but of silver;|22|5
+sme/north_sami_female_1/ttsf13_039.wav|sme/north_sami_female_1/pitch/ttsf13_039.pt|Ássansajit eai lean álo liikká guhkkálaga.|6|1
+sme/north_sami_female_2/laila-1-dpa-fraser_mono_cut_dnhpnorm_531.wav|sme/north_sami_female_2/pitch/laila-1-dpa-fraser_mono_cut_dnhpnorm_531.pt|Mun iskkan.|5|1
+sme/north_sami_male/tts56_TRN_012.wav|sme/north_sami_male/pitch/tts56_TRN_012.pt|Čivggat viehkalit dalán go monis besset olggos, ja girdigohtet juo moadde beaivvi maŋŋil.|3|1
+sme/north_sami_female_2/laila-3-dpa-admin_ALL_mono_cut_dnhpnorm_092.wav|sme/north_sami_female_2/pitch/laila-3-dpa-admin_ALL_mono_cut_dnhpnorm_092.pt|Loga eambbo sin oahpahalli prográmma ja eavttuid birra dás.|5|1
+sme/north_sami_female_3/news_nrk_50-jagi-leat-olbmot-garvan-inger-marjja---navde-su-sahttit-goddit-ogiid-1-14988623_258.wav|sme/north_sami_female_3/pitch/news_nrk_50-jagi-leat-olbmot-garvan-inger-marjja---navde-su-sahttit-goddit-ogiid-1-14988623_258.pt|Muhtin jagiid maŋŋá de dárbbašii aiddo dán ipmárdusa.|4|1
+sme/north_sami_female_2/laila-1-dpa-fraser_mono_cut_dnhpnorm_473.wav|sme/north_sami_female_2/pitch/laila-1-dpa-fraser_mono_cut_dnhpnorm_473.pt|Mana geidnosat.|5|1
+sme/north_sami_female_1/ttsf29_001.wav|sme/north_sami_female_1/pitch/ttsf29_001.pt|Dalle arvigoahtá dahje muohttigoahtá dahje čuorpmaštišgoahtá.|6|1
+sme/north_sami_male/tts29_TRN_004.wav|sme/north_sami_male/pitch/tts29_TRN_004.pt|Sus lei guoibmi fárus, muhto guoibmi ii dáhtton jáhkkit ahte oktage olmmoš gal máhtii lottiid giela.|3|1
+sme/north_sami_female_2/laila-1-dpa-news-muohttacalmmit-del1_mono_cut_dnhpnorm_120.wav|sme/north_sami_female_2/pitch/laila-1-dpa-news-muohttacalmmit-del1_mono_cut_dnhpnorm_120.pt|Ovttasbargoguoimmit áigot sihkkarastit eanandoalu dehálaš rolla seailluhit báikkálaš biebmobuvttadeami, sámi giela ja kultuvrra dakko bokte ahte namme nannet sámi guovlluid eanadoalu vuođu.|5|1
+sme/north_sami_female_3/news_nrk_unge-samiske-artister-skal-covre-gamler-later-og-joiker-i-sgp-cover-1-14508442_080.wav|sme/north_sami_female_3/pitch/news_nrk_unge-samiske-artister-skal-covre-gamler-later-og-joiker-i-sgp-cover-1-14508442_080.pt|Mun lean álo diehtán mii dat lea, muhto in lean gullan buot šuoŋaid.|4|1
+sme/north_sami_female_2/laila-1-dpa-fraser_mono_cut_dnhpnorm_539.wav|sme/north_sami_female_2/pitch/laila-1-dpa-fraser_mono_cut_dnhpnorm_539.pt|Mus lea hivssetheahti.|5|1
+sme/north_sami_female_3/3-quantities-sentences_185.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_185.pt|Dus lea guokte beanna eambbo.|4|1
+sme/north_sami_female_2/laila-1-dpa-news-muohttacalmmit-del1_mono_cut_dnhpnorm_114.wav|sme/north_sami_female_2/pitch/laila-1-dpa-news-muohttacalmmit-del1_mono_cut_dnhpnorm_114.pt|Konsultašuvnnaid vuođđun lea dat árvalus boazodoallošiehtadussii maid Sámedikki dievasčoahkkin meannuda.|5|1
+sme/north_sami_female_1/ttsf12_003.wav|sme/north_sami_female_1/pitch/ttsf12_003.pt|Olju ja gássa Bárentsábis.|6|1
+sme/north_sami_female_2/laila-3-dpa-admin_ALL_mono_cut_dnhpnorm_154.wav|sme/north_sami_female_2/pitch/laila-3-dpa-admin_ALL_mono_cut_dnhpnorm_154.pt|Dakkaviđe go oaččut dan reivve de sáhtát jienastit reivve bokte.|5|1
+sme/north_sami_female_2/laila-1-dpa-news-muohttacalmmit-del1_mono_cut_dnhpnorm_062.wav|sme/north_sami_female_2/pitch/laila-1-dpa-news-muohttacalmmit-del1_mono_cut_dnhpnorm_062.pt|Ovttasbargoguoimmit áigot erenoamážit deattuhit politihkalaš barggu stuorra ja prinsihpalaš vuoigatvuođatáššiiguin.|5|1
+sme/north_sami_male/tts03_TRN_018.wav|sme/north_sami_male/pitch/tts03_TRN_018.pt|Bohčit ii sáhttán eará go daid áldduid, maid ovdalis ledje bohčán.|3|1
+sme/north_sami_female_3/news_nrk_50-jagi-leat-olbmot-garvan-inger-marjja---navde-su-sahttit-goddit-ogiid-1-14988623_215.wav|sme/north_sami_female_3/pitch/news_nrk_50-jagi-leat-olbmot-garvan-inger-marjja---navde-su-sahttit-goddit-ogiid-1-14988623_215.pt|Muhto dát lea šaddan vierrun Rávdnái sihke árga- ja bassebeivviid.|4|1
+sme/north_sami_female_3/news_nrk_50-jagi-leat-olbmot-garvan-inger-marjja---navde-su-sahttit-goddit-ogiid-1-14988623_034.wav|sme/north_sami_female_3/pitch/news_nrk_50-jagi-leat-olbmot-garvan-inger-marjja---navde-su-sahttit-goddit-ogiid-1-14988623_034.pt|Muhto das lea maid mearkkašupmi mii čuohcá eará láhkai ja mii boktá balu.|4|1
+sme/north_sami_female_1/ttsf18_004.wav|sme/north_sami_female_1/pitch/ttsf18_004.pt|Stuorámus bohkká doarostii stálu vulos šaldis.|6|1
+sme/north_sami_female_2/laila-1-dpa-news-muohttacalmmit-del1_mono_cut_dnhpnorm_059.wav|sme/north_sami_female_2/pitch/laila-1-dpa-news-muohttacalmmit-del1_mono_cut_dnhpnorm_059.pt|Sámit geat rahčet dainna ahte gádjut iežaset kultuvrra iešguđet ovttaskašáššiin, guddet noađi min buohkaid ovddas.|5|1
+sme/north_sami_female_3/avvir_350_sentences_part1_095.wav|sme/north_sami_female_3/pitch/avvir_350_sentences_part1_095.pt|Máŋga nuppelot jagi, dan rájes go válde badjelasat Šuoššjávri duottarstobu, lea son Šuoššjávrri jekkiid vánddardan.|4|1
+sme/north_sami_female_1/ttsf20_025.wav|sme/north_sami_female_1/pitch/ttsf20_025.pt|Go gerge loddemis, de lávejit váldit lottiid ovtta guhpii ja juohkit.|6|1
+sme/north_sami_female_3/news_avvir_03-05_smv_ottar_gii_lei_lahppon_0001_article_044.wav|sme/north_sami_female_3/pitch/news_avvir_03-05_smv_ottar_gii_lei_lahppon_0001_article_044.pt|Son lei galbmon, váiban ja nelgon go veahkit bohte.|4|1
+sme/north_sami_female_1/ttsf30_046.wav|sme/north_sami_female_1/pitch/ttsf30_046.pt|Bija don ge loddelávddi olggos.|6|1
+sme/north_sami_female_3/sme-fraser-sano-se-saameksi_235.wav|sme/north_sami_female_3/pitch/sme-fraser-sano-se-saameksi_235.pt|Nu leage. Nu leage!|4|1
+sme/north_sami_female_3/avvir_350_sentences_part1_019.wav|sme/north_sami_female_3/pitch/avvir_350_sentences_part1_019.pt|Aleksander Hætta lea virgáduvvon prošeaktavirgái geasi rádjái, ja son galgá dušše sámástit mánáiguin vai mánát hárjánit sámástit beaivválaččat.|4|1
+sme/north_sami_female_3/ficti_ande_ja_risten_jagi_farus_209.wav|sme/north_sami_female_3/pitch/ficti_ande_ja_risten_jagi_farus_209.pt|Ja vel nieraid, čalmmiid ja gállu.|4|1
+sme/north_sami_female_3/3-quantities-sentences_015.wav|sme/north_sami_female_3/pitch/3-quantities-sentences_015.pt|Mus lea okta rulla dás.|4|1
+sme/north_sami_female_3/news_nrk_ovddadusbellodat-politihkkarat-die_ithit-ie_aset-jienastulohkui-vaikko-eai-ane-ie_aset-sapmela_an-1-1607641_153.wav|sme/north_sami_female_3/pitch/news_nrk_ovddadusbellodat-politihkkarat-die_ithit-ie_aset-jienastulohkui-vaikko-eai-ane-ie_aset-sapmela_an-1-1607641_153.pt|Son orru Surnadalas More ja Romsdalas.|4|1
+sme/north_sami_male/tts14_TRN_010.wav|sme/north_sami_male/pitch/tts14_TRN_010.pt|Dát ii dáidde čoavdit guohtunriidduid mat eará guovlluin leat dábálaččat.|3|1
+sme/north_sami_male/tts45_TRN_010.wav|sme/north_sami_male/pitch/tts45_TRN_010.pt|Ovttasbargu galgá addit vejolašvuođa hukset dárbbašlaš, goabbatbealálaš ipmárdusa daidda váttisvuođaide mat sáhttet čuožžilit go juohke ovttaskas máná beroštumi galgá geahččat olles mánáidjoavkku ektui.|3|1
+sme/north_sami_female_2/laila-3-dpa-admin_ALL_mono_cut_dnhpnorm_009.wav|sme/north_sami_female_2/pitch/laila-3-dpa-admin_ALL_mono_cut_dnhpnorm_009.pt|Nobelinstituhtas lei direktevra Geir Lundestad ja Norgga olgoriikapolitihkalaš instituhta jođiheaddji Jan Egeland, geat vuostáiválddiiga gussiid.|5|1
+sme/north_sami_female_3/MaijuSaijetsOahppabargu_077.wav|sme/north_sami_female_3/pitch/MaijuSaijetsOahppabargu_077.pt|Vilkka namuha, ahte sisdoalu sáhttá lahkonit juogo materiála dahje teoriija vuođul dahje juo ovdánit geavahemiin sihke materiála ja teoriija giehtalágaid.|4|1
+sme/north_sami_female_3/ficti_ande_ja_risten_jagi_farus_090.wav|sme/north_sami_female_3/pitch/ficti_ande_ja_risten_jagi_farus_090.pt|Beaivváš, gállis báitá.|4|1
+sme/north_sami_female_1/ttsf17_035.wav|sme/north_sami_female_1/pitch/ttsf17_035.pt|Goalšoidja.|6|1
+sme/north_sami_female_1/ttsf21_036.wav|sme/north_sami_female_1/pitch/ttsf21_036.pt|Lea vuogas vuosttaš márffi ráhkadit maŋŋebuoiddis ja dasto lasihit buoidebihtáid.|6|1
+sme/north_sami_female_1/ttsf08_041.wav|sme/north_sami_female_1/pitch/ttsf08_041.pt|Dan gieđmmis ii lean vuossi, ja fertii gieđbmeravdii dollet go duldii gáffe.|6|1
+sme/north_sami_male/tts46_TRN_033.wav|sme/north_sami_male/pitch/tts46_TRN_033.pt|Ja de fuobmá oarjelsápmi maid, gii lea das čohkkáme, ahte go gearddi dulkomis lea sáhka, de son maid gáibida čoahkkima dulkojuvvot oarjelsámegillii.|3|1
+sme/north_sami_male/tts38_TRN_028.wav|sme/north_sami_male/pitch/tts38_TRN_028.pt|Go geažuha ahte muhtun lea vuovdái.|3|1
+sme/north_sami_female_3/news_nrk_ovddadusbellodat-politihkkarat-die_ithit-ie_aset-jienastulohkui-vaikko-eai-ane-ie_aset-sapmela_an-1-1607641_174.wav|sme/north_sami_female_3/pitch/news_nrk_ovddadusbellodat-politihkkarat-die_ithit-ie_aset-jienastulohkui-vaikko-eai-ane-ie_aset-sapmela_an-1-1607641_174.pt|Mun dovddan ahte mus lea gullevašvuohta kultuvrii ja mun doarjjun maid dan ollásii, muhto dat lea kultuvra maid in dovdda nu bures, čilge Walle.|4|1
+sme/north_sami_male/tts51_TRN_039.wav|sme/north_sami_male/pitch/tts51_TRN_039.pt|Beaivváš.|3|1
+sme/north_sami_female_2/laila-3-dpa-ficti-cafe-boddu_mono_cut_dnhpnorm_027.wav|sme/north_sami_female_2/pitch/laila-3-dpa-ficti-cafe-boddu_mono_cut_dnhpnorm_027.pt|Rumašlaš erohusat nissoniid ja dievdduid gaskka leat luonddus.|5|1
+sme/north_sami_male/tts24_TRN_046.wav|sme/north_sami_male/pitch/tts24_TRN_046.pt|Ovddit háve go Bávlos idjadii doppe, son šlivggui duvdnái buot skruvaid ja vel boares globusa.|3|1
+sme/north_sami_female_3/avvir_350_sentences_part1_046.wav|sme/north_sami_female_3/pitch/avvir_350_sentences_part1_046.pt|Mis lea hirbmat buorre vuodjanbiras Romssas, muitala Aleksander Andersen ovdal go su vuorru lea vuodjat.|4|1
+sme/north_sami_female_3/MaijuSaijetsOahppabargu_220.wav|sme/north_sami_female_3/pitch/MaijuSaijetsOahppabargu_220.pt|Ee Artihkkal, giđđa guokteduhátguoktelogiokta.|4|1
+sme/north_sami_female_1/ttsf26_008.wav|sme/north_sami_female_1/pitch/ttsf26_008.pt|Sámedikki hálddahus lea Kárášjogas.|6|1
+sme/north_sami_female_1/ttsf12_063.wav|sme/north_sami_female_1/pitch/ttsf12_063.pt|Temperatuvra, deatta ja vánis oksygena leat leamaš deaŧalaččat luonddu iežas buvttadeapmái.|6|1
+sme/north_sami_female_2/laila-2-dpa-misc-acapela-male_del2_mono_cut_dnhpnorm_161.wav|sme/north_sami_female_2/pitch/laila-2-dpa-misc-acapela-male_del2_mono_cut_dnhpnorm_161.pt|Riegádan friddjan.|5|1
+sme/north_sami_male/tts12_TRN_058.wav|sme/north_sami_male/pitch/tts12_TRN_058.pt|Loahpas eai lean go moadde hearggi.|3|1
+est/peeter/lause01274.wav|est/peeter/lause01274.pt|Kuus tundi, nelisada viiskümmend kaks kilomeetrit ja kolm maanteepraami.|19|4
+est/liivika/lause00322.wav|est/liivika/lause00322.pt|Ma tahan, et me läheksime koos.|15|4
+est/kylli/lause02032.wav|est/kylli/lause02032.pt|Ma ei julgenud enam paigast liikuda, mul oli tunne, et ma annan ennast ära.|17|4
+est/kylli/lause01268.wav|est/kylli/lause01268.pt|Võimalik, et meil oligi üks hing.|17|4
+est/andreas/Andreas_00018.wav|est/andreas/Andreas_00018.pt|Seitsmeteistkümnendal sajandil oli esiisade pidulaual mõdu, kali, kama, hägune ködi ja kuus verekäkki.|18|4
+est/kylli/lause01422.wav|est/kylli/lause01422.pt|Naeratas kohmetult.|17|4
+est/andreas/Andreas_01111.wav|est/andreas/Andreas_01111.pt|Ma luban, et sel aastal on festival parem, kui kunagi varem.|18|4
+est/indek/eki_et_ind_00104.wav|est/indek/eki_et_ind_00104.pt|Kössis sant põlvneb Kurgjalt, aga ladna kõrtsmik mandrilt.|16|4
+est/andreas/Andreas_00746.wav|est/andreas/Andreas_00746.pt|Sellegipoolest jätab meie presidendi seisukoha varju vaikus, millega tema märkused vastu võeti.|18|4
+est/andreas/Andreas_01152.wav|est/andreas/Andreas_01152.pt|Tartu ülikool on oma pika ajaloo jooksul kuulunud mitmesse kultuuri- ja keeleruumi.|18|4
+est/liivika/lause00319.wav|est/liivika/lause00319.pt|"Me tahame, et nad kohe minema läheksid."""|15|4
+est/peeter/lause00097.wav|est/peeter/lause00097.pt|Aga Andres elas endiselt, rühmeldas ainult hommikust õhtuni tööd teha, nagu tahaks ta nõnda summutada igasugused mõtted.|19|4
+est/kersti/lause01466.wav|est/kersti/lause01466.pt|Proua Älbert Forrister võpatas üllatusest.|20|4
+est/indek/eki_et_ind_00455.wav|est/indek/eki_et_ind_00455.pt|Nii jääb sust väär mulje.|16|4
+est/indek/eki_et_ind_00674.wav|est/indek/eki_et_ind_00674.pt|Aasia juhtivad indeksid liikusid täna ühist suunda leidmata, kuid Euroopa turud on pärastlõunal mõõdukalt plussis.|16|4
+est/liivika/lause00781.wav|est/liivika/lause00781.pt|"Mulle ei tulnud kordagi midagi sellist pähe.|15|4
+est/liivika/lause00782.wav|est/liivika/lause00782.pt|Mis tagajärgede?"""|15|4
+est/peeter/lause01249.wav|est/peeter/lause01249.pt|Tal oli käes binokkel, mille oli suunanud väinale.|19|4
+est/indek/eki_et_ind_00367.wav|est/indek/eki_et_ind_00367.pt|Avenüüjantideta poleks juulis seda festivali.|16|4
+est/liivika/lause01311.wav|est/liivika/lause01311.pt|"Jah, tõesti lämmatab.|15|4
+est/liivika/lause01312.wav|est/liivika/lause01312.pt|Te tahate öelda, et mu isa ei olegi surnud?"" küsis Eeva, klaasist lonksukest imedes."|15|4
+est/indek/eki_et_ind_00547.wav|est/indek/eki_et_ind_00547.pt|Seier ütles, et tema tegi ehitusloa väljastamisel kõik ehitusseaduse järgi ning Luigega ei seo teda mitte midagi.|16|4
+est/peeter/lause01967.wav|est/peeter/lause01967.pt|Muidugi elab seal ka Alexi isa, kuid tema on alati reisil, tal on oma firma, ja Alex ütles, et ta ajab välismaal äri, teeb suuri mitme miljoni margaseid tehinguid.|19|4
+est/kylli/lause01571.wav|est/kylli/lause01571.pt|Hunt liikus kiiresti mööda maastikku ja ma tundsin, et pigem hõljun kui jooksen ta kannul.|17|4
+est/andreas/Andreas_00848.wav|est/andreas/Andreas_00848.pt|Eesti ettevõtjad on tõestanud, et suudavad majanduses olnud heitlike aegadega toime tulla.|18|4
+est/kersti/lause01536.wav|est/kersti/lause01536.pt|Lavatagused sepitsused olid kulgenud isa valvsa pilgu all.|20|4
+est/kylli/lause00576.wav|est/kylli/lause00576.pt|Kumbki ei vaadanud alguses ülestehtud asemete poolegi.|17|4
+est/kylli/lause01179.wav|est/kylli/lause01179.pt|Kogu väike varandus, mis neil oli olnud, tuli kas maha jätta või rööviti teel ära.|17|4
+est/indek/eki_et_ind_00083.wav|est/indek/eki_et_ind_00083.pt|Ohutu psühhopaat käsib loidu koera biifsteeki süüa.|16|4
+est/liivika/lause00940.wav|est/liivika/lause00940.pt|"Garmis olid tal vabad käed, mida ta igati ära kasutas, ja nagu ta ise on öelnud, nautis ta Garmi illustreerimist: ""... kõige rohkem meeldis mulle, et ma sain Staalini ja Hitleriga vastik olla""."|15|4
+est/liivika/lause00114.wav|est/liivika/lause00114.pt|Me ei anna mingit nakkust edasi, tähendasin.|15|4
+est/liivika/lause00496.wav|est/liivika/lause00496.pt|"Volle helistas keset ööd ja ütles, et nüüd on rahu.|15|4
+est/liivika/lause00497.wav|est/liivika/lause00497.pt|Ja ometi oli hea ja kindel tunne - maailmast ära lõigatud - tundus, et keegi ei pääse enam välja ja keegi ei pääse sisse.|15|4
+est/liivika/lause00498.wav|est/liivika/lause00498.pt|Kumb siis?"" nõudis Vioola."|15|4
+est/kylli/lause00869.wav|est/kylli/lause00869.pt|Seda, kui palju vabrikandid teenivad, ta arvutada ei osanud, ehkki Jaagupi piltlike selgituste järgi pidi seda olema koletult palju, ja kindlasti oligi.|17|4
+est/peeter/lause01307.wav|est/peeter/lause01307.pt|Siis võttis ta mittemidagiütleva näoga jälle endise asendi sisse.|19|4
+est/andreas/Andreas_00678.wav|est/andreas/Andreas_00678.pt|Soome börsil langesid enim kohalike ettevõtete aktsiate hinnad.|18|4
+est/kylli/lause01290.wav|est/kylli/lause01290.pt|Reisikotist sai minu garderoob.|17|4
+est/liivika/lause01101.wav|est/liivika/lause01101.pt|"Muidu sa poleks tulnud,"" nentis Eeva, kes istus nüüd madalal aknalaual."|15|4
+est/peeter/lause01982.wav|est/peeter/lause01982.pt|Tallinnas mõisteti Tui Jüri ja Kotka Karla üle varsti kohut: eluajaks vangi!|19|4
+est/kersti/lause00972.wav|est/kersti/lause00972.pt|Oma ilu ja laitmatu maitsega jõudis väikest kasvu Almina tihtipeale ajakirjade kaanele.|20|4
+est/indek/eki_et_ind_00369.wav|est/indek/eki_et_ind_00369.pt|Sulgemaks fosgeeni ja polüuretaani tootvad tehased tuleks alustada gaasbetooni importi.|16|4
+est/kersti/lause01456.wav|est/kersti/lause01456.pt|See oli Emil, kes oli vaevalt neelanud suutäitki jälgides, kuidas mina oma lõunat söön.|20|4
+est/kersti/lause01890.wav|est/kersti/lause01890.pt|Tuleviku ajaloolane võiks seda vaadelda kui haruldast allmärkust meie päevade kirjanduslikele annaalidele.|20|4
+est/kersti/lause01723.wav|est/kersti/lause01723.pt|Ehkki kogusumma, mille proua Älbert Forrester kirjanduslike ringkondade arvates sai, on arvatavasti liialdatud, pole mingit kahtlust, et ta teenis juba selle ainsa raamatuga küllalt raha, et vältida kogu ülejäänud elu jooksul majanduslikke muresid.|20|4
+est/kylli/lause00897.wav|est/kylli/lause00897.pt|Ta ei öelnud mu süüdistuste peale harilikult mitte midagi.|17|4
+est/indek/eki_et_ind_00535.wav|est/indek/eki_et_ind_00535.pt|Isa jutu järgi olid need Austin-seitsmed, mida vanasti kutsuti Austini beebideks, üldse esimesed väikeautod, mis ennast läbi lõid.|16|4
+est/kersti/lause00696.wav|est/kersti/lause00696.pt|Vaatamata viljakatele põllumajandusmaadele sai Liibanonist üks majanduslikult kõige sõltuvamaid riike kogu planeedil.|20|4
+est/andreas/Andreas_00064.wav|est/andreas/Andreas_00064.pt|Boss tundis tapvat internetiväsimust.|18|4
+est/liivika/lause00979.wav|est/liivika/lause00979.pt|Asjad on muutunud.|15|4
+est/indek/eki_et_ind_00920.wav|est/indek/eki_et_ind_00920.pt|Ateist idealiseerib õe aerodünaamilisi omadusi.|16|4
+est/peeter/lause01591.wav|est/peeter/lause01591.pt|Ta hakkas isegi meist vasakul trepist alla saali tulema, kuid jäi poolele teele, nii et ta seisis otse vastuvaidleja ette, natuke temast kõrgemale.|19|4
+est/kylli/lause01424.wav|est/kylli/lause01424.pt|Siis sinna, nende inimeste hulka oli Eedi vend Manfred kuulunud.|17|4
+est/peeter/lause00330.wav|est/peeter/lause00330.pt|Enam kui kaks nädalat hiljem, üheksandal novembril, pussitati Alex Rabelli otse tänaval.|19|4
+sma/south_sami_female/sorsamisk_-_III_01_-_Giesie_eejehtimmiebiejjieh_017_011.wav|sma/south_sami_female/pitch/sorsamisk_-_III_01_-_Giesie_eejehtimmiebiejjieh_017_011.pt|Fïereguhte lij maanese joe aalkoevistie joekoen almetje. Abpe jieledebiejjiem.|1|0
+sma/south_sami_female/sorsamisk_-_I_01_-_Dan-orre-jaepien_022_009.wav|sma/south_sami_female/pitch/sorsamisk_-_I_01_-_Dan-orre-jaepien_022_009.pt|Jïh dovne tjoevere daejredh mujhtedh guktie dïhte deava vueliebisnie, ij leah daarah mij astojde onterdidh, guktie edtjem dle daelie daagkoe.|1|0
+sma/south_sami_female/fem_fortellinger_hostslakting_del_1_TRN_009.wav|sma/south_sami_female/pitch/fem_fortellinger_hostslakting_del_1_TRN_009.pt|Jïh dle munnjien vaarjoeh dle ohtsedi, bïjveles vaarjoeh.|1|0
+sma/south_sami_female/sorsamisk_-_114_01_-_Saemieh_gellien_laakan_barkeminie_011_026.wav|sma/south_sami_female/pitch/sorsamisk_-_114_01_-_Saemieh_gellien_laakan_barkeminie_011_026.pt|Jïh nimhtie maahta guhkiem sjïdtedh vuertedh aerebi goh mij maahta övtiebasse båetedh.|2|0
+sma/ka/SANY08000117_001.wav|sma/ka/SANY08000117_001.pt|Saemiengïele lea vihkeles saemien sïebredahkesne, såemesidie dab jeahta.|0|0
+sma/south_sami_female/sorsamisk_-_1994_01_-_Daelie_lea_jallan_vahkoe_aajmene_005_011.wav|sma/south_sami_female/pitch/sorsamisk_-_1994_01_-_Daelie_lea_jallan_vahkoe_aajmene_005_011.pt|Dellie lea barre geehteminie gogkoe dohte mubpie edtja tjoeveridh meatodh jïh luejhtiestidh, guktie jïjtjh åadtjoeh veaksehke dobtedh, gosse mubpiem lea åådtjeme diblestidh.|1|0
+sma/south_sami_female/sorsamisk_-_I_01_-_Dan-orre-jaepien_001_023.wav|sma/south_sami_female/pitch/sorsamisk_-_I_01_-_Dan-orre-jaepien_001_023.pt|Byörijibie gujht eensilaakan aaj daan bïjre ussjedidh.|1|0
+sma/south_sami_female/sorsamisk_-_I_01_-_Dan-orre-jaepien_017_003.wav|sma/south_sami_female/pitch/sorsamisk_-_I_01_-_Dan-orre-jaepien_017_003.pt|Teeveesne libie vuajneme jïh radiosne libie goltelamme jïh guarkeme libie joe dellie dïhte vesties stadtjoe lea dle orrijamme.|1|0
+sma/south_sami_female/sorsamisk_-_7_01_-_Jarkoestidh_028_026.wav|sma/south_sami_female/pitch/sorsamisk_-_7_01_-_Jarkoestidh_028_026.pt|Ibie edtjh daehtie mænngide vielie dagkarihtie tjåahkoste gåetide vuelkedh jïh dle tjahkasjidh vuertedh edtja gie joem maam joem aelkedh darjodh.|1|0
+sma/south_sami_female/sorsamisk_-_151_01_-_Rovnegs_veartene_Rovnegs_vearelde_008_TRN_029.wav|sma/south_sami_female/pitch/sorsamisk_-_151_01_-_Rovnegs_veartene_Rovnegs_vearelde_008_TRN_029.pt|Daejribie maanah lin dovne iktesth meatan, dellie sån tjoeverin lïhkemes lihpien nualan skodtedh jallh lïhkemes boeltese naan stoerre goesen nualan.|1|0
+sma/south_sami_female/sorsamisk_-_III_01_-_Giesie_eejehtimmiebiejjieh_015_035.wav|sma/south_sami_female/pitch/sorsamisk_-_III_01_-_Giesie_eejehtimmiebiejjieh_015_035.pt|Vuejnedh maam dle ööhpehtimmieraerien mubpien asken tjåahkosne dan bïjre jeahta.|1|0
+sma/south_sami_female/sorsamisk_-_IV_01_-_Dajstan_don_nahkeme_vahkoen_011_026.wav|sma/south_sami_female/pitch/sorsamisk_-_IV_01_-_Dajstan_don_nahkeme_vahkoen_011_026.pt|Nimhtie hov libie dan gellien aejkien jeahteme, jïh dellie gåetide vualkeme jïh åtneme mijjieh væjkelh orreme.|1|0
+sma/south_sami_female/sorsamisk_-_II_01_-_Don-Jih-Daan-Bijre_023_010.wav|sma/south_sami_female/pitch/sorsamisk_-_II_01_-_Don-Jih-Daan-Bijre_023_010.pt|Vaeriegåetien Frovde, Frode Fjellheim, Röörovsi luvhtie saemien såeleste musigkealma Tråante-hïejmesne årroeminie, jïh fïerhten biejjien musigkine barkeminie, jïenehkem teaatermusigkine.|1|0
+sma/south_sami_female/sorsamisk_goltelidh_jupmelen_rihjke_lea_gietskesne_cd1_mono_050_003.wav|sma/south_sami_female/pitch/sorsamisk_goltelidh_jupmelen_rihjke_lea_gietskesne_cd1_mono_050_003.pt|Dellie Peetrose Jeesusem miehtjiebasse vaalta jïh aalka beadtodh.|1|0
+sma/south_sami_female/sorsamisk_goltelidh_jupmelen_rihjke_lea_gietskesne_cd1_mono_046_000.wav|sma/south_sami_female/pitch/sorsamisk_goltelidh_jupmelen_rihjke_lea_gietskesne_cd1_mono_046_000.pt|Væhtaj mietie goerehteminie.|1|0
+sma/south_sami_female/sorsamisk_-_I_01_-_Dan-orre-jaepien_001_030.wav|sma/south_sami_female/pitch/sorsamisk_-_I_01_-_Dan-orre-jaepien_001_030.pt|Daejribie dovne man vihkeles, jis edtja gïeline eensilaakan barkedh, gïelen sjisjnjiebægkoem daejredh, gïelen grammatigkem.|1|0
+sma/south_sami_female/sorsamisk_-_115_01_-_Goevten_voestes_biejjie_015_027.wav|sma/south_sami_female/pitch/sorsamisk_-_115_01_-_Goevten_voestes_biejjie_015_027.pt|Jïh dellie åarjelsaemien teatere lea såemies daanhtsome-peedagovgem, Mussieristie rovkijem, govlehtamme mijjen skåvloemaanide leeredh jårrestalledh.|1|0
+sma/south_sami_female/sorsamisk_-_151_01_-_Rovnegs_veartene_Rovnegs_vearelde_000_TRN_010.wav|sma/south_sami_female/pitch/sorsamisk_-_151_01_-_Rovnegs_veartene_Rovnegs_vearelde_000_TRN_010.pt|Mejtie daaletje almetjh dah eah daejrieh mij dålle jïh guktie dam geehtedh.|1|0
+sma/south_sami_female/sorsamisk_-_III_01_-_Giesie_eejehtimmiebiejjieh_011_019.wav|sma/south_sami_female/pitch/sorsamisk_-_III_01_-_Giesie_eejehtimmiebiejjieh_011_019.pt|Dagkoe jis gogkoe gåetesne båassjoe. Desnie garsetje.|2|0
+sma/south_sami_female/sorsamisk_-_1994_01_-_Daelie_lea_jallan_vahkoe_aajmene_005_022.wav|sma/south_sami_female/pitch/sorsamisk_-_1994_01_-_Daelie_lea_jallan_vahkoe_aajmene_005_022.pt|Sveerjesne reerenasse seammasïenten nænnoste jeatjebh gelkieh aaj dovletje saemien dajvine åadtjodh vijredh.|1|0
+sma/south_sami_female/sorsamisk_-_7_01_-_Jarkoestidh_006_014.wav|sma/south_sami_female/pitch/sorsamisk_-_7_01_-_Jarkoestidh_006_014.pt|Daelie jis lea daebpene mijjen raedtesne aaj tjåetskeme, jïh gosse ij leah lopme, dellie garre radte sjædta.|2|0
+sma/south_sami_female/sorsamisk_-_115_01_-_Goevten_voestes_biejjie_011_019.wav|sma/south_sami_female/pitch/sorsamisk_-_115_01_-_Goevten_voestes_biejjie_011_019.pt|Nåå, Gærhkoeraerien lïhtsegh gujht dle dan prievien bïjre guhkiem dohkh diekie digkiedin.|1|0
+sma/south_sami_female/sorsamisk_-_7_01_-_Jarkoestidh_024_017.wav|sma/south_sami_female/pitch/sorsamisk_-_7_01_-_Jarkoestidh_024_017.pt|Dejtie fïerhte barkoebiejjie aavoebiejjine sjædta.|1|0
+sma/south_sami_female/sorsamisk_-_7_01_-_Jarkoestidh_026_014.wav|sma/south_sami_female/pitch/sorsamisk_-_7_01_-_Jarkoestidh_026_014.pt|Jiehtieh ij leah, annje ov ellies, mohte gïjrese sån dïhte maahtoetjiehpie vihth båata jïh illie.|1|0
+sma/south_sami_female/fem_fortellinger_hostslakting_del_1_TRN_042.wav|sma/south_sami_female/pitch/fem_fortellinger_hostslakting_del_1_TRN_042.pt|Nagkh dïhte lij jo naan biejjieh aerebi joe daarrah vualkeme duj mubpiej båatsoealmetjigujmie vaed vaarren doh vaerieh noerhtese, Dåvnesen noerhtese jïh dle båetieh da dah jaevrieh gaskeb dejnie krievvine.|1|0
+sma/south_sami_female/sorsamisk_goltelidh_jupmelen_rihjke_lea_gietskesne_cd1_mono_013_007.wav|sma/south_sami_female/pitch/sorsamisk_goltelidh_jupmelen_rihjke_lea_gietskesne_cd1_mono_013_007.pt|"Goh dah fariseerh gïeh tjaalege-åehpieh leah, Jeesusem vuejnieh nåake almetji jïh tåallerigujmie ektesne byöpmedeminie, dellie learoehkidie jiehtieh: ""Dohte jis tåalleri jïh sådterigujmie ektesne byöpmede."""|1|0
+sma/south_sami_female/gullie_tsjaatsele_06_TRN_003.wav|sma/south_sami_female/pitch/gullie_tsjaatsele_06_TRN_003.pt|Aellieh dellie, åabpeme, åajaldehtieh jïjtjedh bööremes gïeltegidie tsaekedh, joe hov dellie gånkan-gaertenen lïhke libie.|2|0
+sma/south_sami_female/sorsamisk_goltelidh_jupmelen_rihjke_lea_gietskesne_cd1_mono_049_005.wav|sma/south_sami_female/pitch/sorsamisk_goltelidh_jupmelen_rihjke_lea_gietskesne_cd1_mono_049_005.pt|"Jïh dijjieh, Jeesuse gihtjie, ""maam dijjieh jis jiehtiejidie?"""|1|0
+sma/south_sami_female/sorsamisk_-_151_01_-_Rovnegs_veartene_Rovnegs_vearelde_030_TRN_017.wav|sma/south_sami_female/pitch/sorsamisk_-_151_01_-_Rovnegs_veartene_Rovnegs_vearelde_030_TRN_017.pt|Doen våh nåhkeme våhkoen jis dle Sveerjen raedtesne Ubmejisnie, daaroen Umeå, universiteetesne saemieh tjåanghkenin edtjin dle jihtsh Bee-kuvsjine aelkedh.|1|0
+sma/south_sami_female/aaarjel-faaroe-soersamisk-magasin-201909-Golme-neajtoeh-Govnebuatska_parts_003_TRN_023.wav|sma/south_sami_female/pitch/aaarjel-faaroe-soersamisk-magasin-201909-Golme-neajtoeh-Govnebuatska_parts_003_TRN_023.pt|Manne maaje tjåarvoejim edtjigan mannem viehkiehtidh sigkedh daehtie plueveste, men idtjigan amma seahkerh gænnah.|2|0
+sma/south_sami_female/sorsamisk_goltelidh_jupmelen_rihjke_lea_gietskesne_cd1_mono_028_018.wav|sma/south_sami_female/pitch/sorsamisk_goltelidh_jupmelen_rihjke_lea_gietskesne_cd1_mono_028_018.pt|Goh Jeesusem jaksin, dellie vööjnin dam almam gie aerebi lij doenh-aajmosne, gåårveldahkesne jïh jïermege desnie tjahkan.|1|0
+sma/south_sami_female/sorsamisk_goltelidh_jupmelen_rihjke_lea_gietskesne_cd2_007_TRN_018.wav|sma/south_sami_female/pitch/sorsamisk_goltelidh_jupmelen_rihjke_lea_gietskesne_cd2_007_TRN_018.pt|Bueriesjugnehtassh mijjen aehtjien, Daaviden, rijhkese mij båata! Hossijanna jallatjommesisnie!|1|0
+sma/south_sami_female/sorsamisk_-_I_01_-_Dan-orre-jaepien_007_012.wav|sma/south_sami_female/pitch/sorsamisk_-_I_01_-_Dan-orre-jaepien_007_012.pt|Plaerine vuejnibie guktie aaj naan almetjh åarjege doegkoe laarhkenadtin.|1|0
+sma/south_sami_female/fem_fortellinger_bladpenger_TRN_001.wav|sma/south_sami_female/pitch/fem_fortellinger_bladpenger_TRN_001.pt|Akten biejjien tjietsie Pöövle jïh aajkohke Eelle jïh aajkohke Sööfh böötin, manne dan såå geerjene.|1|0
+sma/south_sami_female/sorsamisk_-_III_01_-_Giesie_eejehtimmiebiejjieh_011_039.wav|sma/south_sami_female/pitch/sorsamisk_-_III_01_-_Giesie_eejehtimmiebiejjieh_011_039.pt|Dïhte maam daaroen baakojne kommunikasjovnine gåhtjoejibie.|2|0
+sma/south_sami_female/sorsamisk_-_II_01_-_Don-Jih-Daan-Bijre_009_017.wav|sma/south_sami_female/pitch/sorsamisk_-_II_01_-_Don-Jih-Daan-Bijre_009_017.pt|Gaajhke dïhte jis almetjasse skïebtjelassh buakta.|1|0
+sma/south_sami_female/sorsamisk_-_III_01_-_Giesie_eejehtimmiebiejjieh_011_026.wav|sma/south_sami_female/pitch/sorsamisk_-_III_01_-_Giesie_eejehtimmiebiejjieh_011_026.pt|Nåå ibie gujht man gallesh noerhtesaemien man jïjnjem guarkah.|2|0
+sma/south_sami_female/sorsamisk_-_7_01_-_Jarkoestidh_028_014.wav|sma/south_sami_female/pitch/sorsamisk_-_7_01_-_Jarkoestidh_028_014.pt|Ij goh vïenhth s eh sjïehth, mijjieh guhth gïelem lohkeminie, råajvaribie guktie joem gïelem gorredidh?|1|0
+sma/south_sami_female/sorsamisk_-_II_01_-_Don-Jih-Daan-Bijre_005_020.wav|sma/south_sami_female/pitch/sorsamisk_-_II_01_-_Don-Jih-Daan-Bijre_005_020.pt|"Dan njaelkieslaakan föörhkede jïh jeahta satne tuhtji, ""nov amma dejtie estieh dåålvedidh""!"|1|0
+sma/south_sami_female/sorsamisk_-_114_01_-_Saemieh_gellien_laakan_barkeminie_003_028.wav|sma/south_sami_female/pitch/sorsamisk_-_114_01_-_Saemieh_gellien_laakan_barkeminie_003_028.pt|Dovne såekienlaasth tjoehpedh jïh gajhkedidh. Sjiehteles raehpiej nualan tjöönghkedh, bovtside daelviebea beapmojne jis tjuekie låavta.|1|0
+sma/south_sami_female/aaarjel-faaroe-soersamisk-magasin-201909-Golme-neajtoeh-Govnebuatska_parts_005_TRN_006.wav|sma/south_sami_female/pitch/aaarjel-faaroe-soersamisk-magasin-201909-Golme-neajtoeh-Govnebuatska_parts_005_TRN_006.pt|Gånka ryöknoe, vuajna gaajhkh.|2|0
+sma/south_sami_female/aaarjel-faaroe-soersamisk-magasin-201909-Golme-neajtoeh-Govnebuatska_parts_004_TRN_010.wav|sma/south_sami_female/pitch/aaarjel-faaroe-soersamisk-magasin-201909-Golme-neajtoeh-Govnebuatska_parts_004_TRN_010.pt|Manne sïjhtem golmeluhkie speejsedaaleh jïh golme tjuvlieh datneste!|2|0
+sma/south_sami_female/sorsamisk_-_II_01_-_Don-Jih-Daan-Bijre_005_035.wav|sma/south_sami_female/pitch/sorsamisk_-_II_01_-_Don-Jih-Daan-Bijre_005_035.pt|Idtjin hov daarah dillie annje daarpesjh bïlledh mijjen gïele skælkoe jis ibie ånnetji geehth.|1|0
+sma/south_sami_female/sorsamisk_-_II_01_-_Don-Jih-Daan-Bijre_001_019.wav|sma/south_sami_female/pitch/sorsamisk_-_II_01_-_Don-Jih-Daan-Bijre_001_019.pt|Röörovsi luvhtie aaj govlem såamesh joe bæjjesvorti jåhteme, åådtjeme krievviem gïjrelaantese luejhtedh guktie åadtjoeh bissiebiejjieh gåetesne årrodh jis sijhtieh.|1|0
+sma/south_sami_female/sorsamisk_goltelidh_jupmelen_rihjke_lea_gietskesne_cd1_mono_040_009.wav|sma/south_sami_female/pitch/sorsamisk_goltelidh_jupmelen_rihjke_lea_gietskesne_cd1_mono_040_009.pt|Nåake åssjalommesh almetjen vaajmoste båetieh: slïerkevoete, sualadimmie, buvveme, paarrebielie-biehteme, beetnege-njaahtjome, bahhasvoete, biehteme, bovhtjehtimmie, njaahtjoeh-tjelmieh, aahpeldimmie, tjievliesvoete, jiermehtsvoete.|1|0
+sma/south_sami_female/sorsamisk_-_115_01_-_Goevten_voestes_biejjie_017_004.wav|sma/south_sami_female/pitch/sorsamisk_-_115_01_-_Goevten_voestes_biejjie_017_004.pt|Jïh doen mijjen stoerre kraannalaanten almetjidie lea dovne povlitigkesne garre vearolde orreme.|1|0
+sma/south_sami_female/sorsamisk_-_151_01_-_Rovnegs_veartene_Rovnegs_vearelde_008_TRN_002.wav|sma/south_sami_female/pitch/sorsamisk_-_151_01_-_Rovnegs_veartene_Rovnegs_vearelde_008_TRN_002.pt|Mijjieh daebpene noerhtene jis jïjnjemes mullieh ebrieh mearkah jïh dovne bïegkem åadtj åadtjoejibie dååjrehtalledh.|1|0
+sma/south_sami_female/sorsamisk_-_7_01_-_Jarkoestidh_001_023.wav|sma/south_sami_female/pitch/sorsamisk_-_7_01_-_Jarkoestidh_001_023.pt|Daelie gosse almetjh jïjnjem daejrieh jïh maaje ov-goh aatskadieh gelline lehkine jïjnjem buaradalledh.|2|0
+sma/south_sami_female/sorsamisk_-_115_01_-_Goevten_voestes_biejjie_007_026.wav|sma/south_sami_female/pitch/sorsamisk_-_115_01_-_Goevten_voestes_biejjie_007_026.pt|Jïh guktie dellie dovne dagkeren vallan giese ij leah aelhkie magkerem gænnah gïelem soptsestidh jïh gie ij buektehth lïeredh lohkedh jïh tjaeledh.|1|0
+sma/south_sami_female/sorsamisk_-_7_01_-_Jarkoestidh_028_011.wav|sma/south_sami_female/pitch/sorsamisk_-_7_01_-_Jarkoestidh_028_011.pt|Nov maaje daejriejibie, laedtieh leah nimhtie gellieh stoerrej-luhkiejaepieh joe, mijjen jïh mijjen gïelen bïjre jeahteme.|1|0
