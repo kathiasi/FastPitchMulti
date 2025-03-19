@@ -1,0 +1,24 @@
+lule_sami_female_1/02-bi-dpa-01-navn-cut1-dnhpnorm_Sent_152.wav 0.08398367512610651 -> alle 1s mittainen, yksittäinen sana
+lule_sami_male_1/uit-sander-2022-04-19-03_navn_mcxgn_Sent2_298.wav 0.08549235996447112 -> -> alle 1s mittainen, yksittäinen sana
+lule_sami_female_1/02-bi-dpa-01-navn-cut1-dnhpnorm_Sent_099.wav 0.08597590128580729 -> alle 1s mittainen, yksittäinen sana
+lule_sami_male_1/uit-sander-2022-04-19-01_ord_del1_mcxgn_Sent2_156.wav 0.086375892162323 -> alle 1s mittainen, yksittäinen sana
+lule_sami_female_1/02-bi-dpa-01-navn-cut1-dnhpnorm_Sent_012.wav 0.08719906681462337 -> alle 1s mittainen, yksittäinen sana
+lule_sami_male_1/uit-sander-2022-04-20-infonuorra_mcxgn_Sent2_157.wav 0.08846524514650043 -> alle 1s mittainen, yksittäinen sana
+lule_sami_male_1/uit-sander-2022-04-21-missing_stammekonsonant_mcxgn_Sent2_189.wav 0.08859301868237947 -> alle 1s mittainen, yksittäinen sana
+lule_sami_male_1/uit-sander-2022-04-20-educational-giella-fabmo-1_del3_mcxgn_Sent2_119.wav 0.08881375938653946 -> alle 1s mittainen, yksittäinen sana
+lule_sami_male_1/uit-sander-2022-04-21-tjaktjalasta_mcxgn_Sent2_022.wav 0.08933402873851636 -> alle 1s mittainen, yksittäinen sana
+lule_sami_female_2/2647_0006_012_003.wav 0.09241464315367139 -> väärä tiedostonimi vrt. transkriptio jostain syystä. Pitäisi olla smj/lule_sami_female_2/2647_0006_012_002.wav (eli ei 003 vaan 002.
+lule_sami_male_1/uit-sander-2022-04-20-educational-giella-fabmo-1_del2_mcxgn_Sent2_141.wav 0.09390007181370512 -> osittain väärä transkriptio. Pitäisi olla: "Na máttaráddjá". Alussa ja lopussa ylimääräinen sana. 
+lule_sami_male_1/uit-sander-2022-04-21-tjaktjalasta_mcxgn_Sent2_433.wav 0.09793508437372023 -> alle 1s mittainen, yksittäinen sana
+lule_sami_female_1/02-bi-dpa-01-navn-cut1-dnhpnorm_Sent_106.wav 0.09796946927120811 -> alle 1s mittainen, yksittäinen sana
+south_sami_female/sorsamisk_-114_01-_Saemieh_gellien_laakan_barkeminie_029_001.wav 0.11435030091483638 -> poista koko rivi
+lule_sami_female_1/02-bi-dpa-01-navn-cut1-dnhpnorm_Sent_141.wav 0.1192917029062907 -> alle 1s mittainen, yksittäinen sana
+lule_sami_male_1/uit-sander-2022-04-19-01_ord_del2_mcxgn_Sent2_002.wav 0.1300097041659885 -> alle 1s mittainen, yksittäinen sana
+lule_sami_male_1/uit-sander-2022-04-20-infonuorra_mcxgn_Sent2_108.wav 0.1365168536150897 -> alle 1s mittainen, yksittäinen sana
+lule_sami_male_1/uit-sander-2022-04-19-01_ord_del2_mcxgn_Sent2_001.wav 0.14405347108840943 -> alle 1s mittainen, yksittäinen sana
+lule_sami_male_1/uit-sander-2022-04-20-educational-giella-fabmo-2_mcxgn_Sent2_101.wav 0.14997682010426241 -> osittain väärä transkriptio. Pitäisi olla: "Majt dagá gå."|9|2
+lule_sami_male_1/uit-sander-2022-04-19-01_ord_del2_mcxgn_Sent2_292.wav 0.23719142913818358 -> alle 1s mittainen, yksittäinen sana
+lule_sami_male_1/uit-sander-2022-04-20-educational-giella-fabmo-2_mcxgn_Sent2_126.wav 0.24796377695523775 -> alle 1s mittainen, yksittäinen sana
+lule_sami_female_2/2647_0006_012_029.wav 0.4387792240489613 -> alle 1s mittainen
+jupmelen rihke 007_TRN_016 -> corrupted file
+

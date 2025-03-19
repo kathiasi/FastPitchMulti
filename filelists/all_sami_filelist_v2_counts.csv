@@ -1,0 +1,12 @@
+"lang_id"	"speaker_id"	"speaker_tag"	"counts"	"total_counts_per_language"
+1	2	"north_sami_male"	2601	10563
+1	5	"north_sami_female_2"	2209	10563
+1	6	"north_sami_female_1"	2197	10563
+1	7	"north_sami_female_3"	3556	10563
+2	3	"lule_sami_female_1"	6657	19089
+2	4	"lule_sami_female_2"	1729	19089
+2	8	"lule_sami_male_2"	3153	19089
+2	9	"lule_sami_male_1"	7550	19089
+0	0	"south_sami_female"	3846	4788
+0	1	"south_sami_female"	843	4788
+0	10	"south_sami_male"	99	4788
