@@ -1,0 +1,12 @@
+lang_id,speaker_id,speaker_tag,counts,total_counts
+0,0,ka,96,4671
+0,1,south_sami_female,3750,4671
+0,2,south_sami_female,825,4671
+1,3,north_sami_male,2556,10671
+1,4,north_sami_female_3,3760,10671
+1,5,north_sami_female_2,2185,10671
+1,6,north_sami_female_1,2170,10671
+2,7,lule_sami_male_2,3121,18461
+2,8,lule_sami_male_1,7211,18461
+2,9,lule_sami_female_2,1713,18461
+2,10,lule_sami_female_1,6416,18461
