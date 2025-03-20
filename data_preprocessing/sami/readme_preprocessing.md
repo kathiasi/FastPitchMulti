@@ -2,7 +2,7 @@
 
 ## The Sámi dataset 
 
-The Sámi dataset consists of recordings in three different Sámi language: North, Lule and South, abbreviated as sme, smj and sma, respectively. We have altogether 8 different speakers in the dataset: 3 for North Sámi, 4 for Lule Sámi and 1 for South Sámi.
+The Sámi dataset consists of recordings in three different Sámi language: North, Lule and South, abbreviated as sme, smj and sma, respectively. We have altogether 8 different speakers in the dataset: 3 for North Sámi, 4 for Lule Sámi and 2 for South Sámi.
 
 ### Language-independent processing pipeline
 
@@ -18,7 +18,7 @@ For all speakers and subsets, we have processed raw recordings as follows:
 
 * In FastPitch, all files need to be converted from 44.1 khz .wav to 22 khz. For this, we have used command line tool sox or SoundConverter Linux software.
 
-* PitchSqueezer: https://asuni.github.io/PitchSqueezer/doc/pitch_squeezer.html was used to extract pitch from each individual speaker. For male speaker we used a range of 60-350 Hz and for female speakers 100-500 Hz. 
+* PitchSqueezer: https://asuni.github.io/PitchSqueezer/doc/pitch_squeezer.html was used to extract pitch from each individual speaker. For male speaker we used a range of 60-350 Hz and for female speakers 120-500 Hz. 
 
 ### North Sámi
 
