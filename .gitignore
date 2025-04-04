@@ -21,4 +21,7 @@ quant_sents.txt
 common/text/__pycache__/symbols.cpython-39.pyc
 common/text/__pycache__/text_processing.cpython-39.pyc
 fastpitch/__pycache__/model.cpython-39.pyc
+inf_output_testing/
+syn_k_univnet_multi_testing.py
+syn_k_univnet_multi_quant.py
 
