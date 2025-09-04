@@ -7,7 +7,7 @@ apex/.gitmodules
 debug_epoch/
 output_multilang/
 fastpitch/__pycache__/
-__pychache__/
+__pycache__/
 fastpitch/__pycache__/model.cpython-39.pyc
 inf_output_multi/
 __pycache__/syn_hifigan.cpython-39.pyc
