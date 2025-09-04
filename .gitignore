@@ -1,4 +1,5 @@
 ALL_SAMI/
+output_6lang/
 pretrained_models/
 apex/.git/
 apex/.github
